@@ -1,0 +1,91 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 900,
+  "height": 500,
+  "title": "Bike Hire in London",
+  "projection": {"type": "equalEarth"},
+  "layer": 
+  [{
+    "mark":{
+        "type": "geoshape",
+        "fill": "#ddd",
+        "stroke": "#fff",
+        "strokeWidth": 1
+      },
+    "data":{
+      "url": "js/london-topojson.topojson",
+      "format": {"type": "topojson", "feature": "london_geo"}
+      }
+  },
+  {
+    "mark": {"type": "rule", "color": "#000", "opacity": 0.35},
+    "data": {"url": "data/cycle-routes.csv"},
+    "transform": [
+      {"filter": {"param": "sta", "empty": false}},
+      {
+        "lookup": "StartStation Name",
+        "from": {
+          "data": {"url": "data/cycle-stations.csv"},
+          "key": "Station Name",
+          "fields": ["Lat", "Lng"]
+        }
+      },
+      {
+        "lookup": "EndStation Name",
+        "from": {
+          "data": {"url": "data/cycle-stations.csv"},
+          "key": "Station Name",
+          "fields": ["Lat", "Lng"]
+        },
+        "as": ["Lat2", "Lng2"]
+      }
+    ],
+    "encoding": {
+      "latitude": {"field": "Lat"},
+      "longitude": {"field": "Lng"},
+      "latitude2": {"field": "Lat2"},
+      "longitude2": {"field": "Lng2"}
+    }
+  },
+  {
+    "mark": {"type": "circle"},
+    "data": {"url": "data/cycle-routes.csv"},
+    "transform": 
+    [{
+      "aggregate": [{"op": "count", "as": "routes"}], "groupby": ["StartStation Name"]},
+    {
+      "lookup": "StartStation Name",
+      "from": {
+        "data": {"url": "data/cycle-stations.csv"},
+        "key": "Station Name",
+        "fields": ["Borough", "Lat", "Lng"]
+      }
+    },
+    {"filter": "datum.Borough !== 'PR' && datum.state !== 'VI'"}
+  ],
+  "params": [{
+    "name": "sta",
+    "select": {
+      "type": "point",
+      "on":"mouseover",
+      "nearest": true,
+      "fields": ["StartStation Name"]
+    }
+  }],
+    "encoding": {
+      "latitude":{"field": "Lat"},
+      "longitude":{"field": "Lng"},
+      "size": {
+        "field": "routes",
+        "type": "quantitative",
+        "scale": {"rangeMax": 1000},
+        "legend": null
+      },
+      "order": {
+        "field": "routes",
+        "sort": "descending"
+      }
+    }
+  }
+]
+}
