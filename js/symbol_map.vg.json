@@ -4,23 +4,21 @@
   "height": 560,
   "title": "Bike Hire in London",
   "projection": {"type": "equalEarth"},
-  "layer": [
-    {
-      "data": {
-        "url": "./js/london-topojson.topojson",
+  "data": {
+        "url": "https://raw.githubusercontent.com/c-man01/fit3179/main/js/london-topojson.topojson",
         "format": {"type": "topojson", "feature": "london_geo"}
       },
-      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
-    },
-    {
-      "data": {
-        "url": "/Project 2/data/cycle-ds-clean.csv"
-      },
-        "transform": [{
-          "aggregate": [{
-            "op": "count",
-            "as": "Hire Count"
-          }],
+      "transform": [
+        {
+          "lookup": "properties.NAME",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/c-man01/fit3179/main/data/cycle-stations.csv"},
+            "key": "Borough",
+            "fields": ["Active"]
+          }
+          },
+        }],
           "groupby": ["StartStation Name"]
         }],
 
