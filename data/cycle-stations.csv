@@ -5,35 +5,35 @@
 "Bricklayers Arms, Borough",51.466123,-0.216725,Wandsworth
 "Humbolt Road, Fulham",51.473111,-0.137217,Wandsworth
 "Jewry Street, Aldgate",51.517961,-0.105164,City of London
-"Soho Square , Soho",51.515296,-0.132206,City of Westminster
+"Soho Square , Soho",51.515296,-0.132206,Westminster
 "Lambeth Road, Vauxhall",51.498733,-0.103091,Southwark
 "Finsbury Square , Moorgate",51.52531,-0.136773,Camden
 "Wright's Lane, Kensington",51.500002,-0.192895,Kensington and Chelsea
 "Clerkenwell Green, Clerkenwell",51.539108,-0.078712,Hackney
 "Kennington Cross, Kennington",51.494351,-0.215754,Hammersmith and Fulham
-"Vauxhall Bridge , Pimlico",51.515615,-0.189855,City of Westminster
+"Vauxhall Bridge , Pimlico",51.515615,-0.189855,Westminster
 "Porchester Place, Paddington",51.486849,-0.10308,Southwark
 "Cotton Garden Estate, Kennington",51.514467,-0.087621,City of London
-"Tanner Street, Bermondsey",51.489366,-0.14119,City of Westminster
+"Tanner Street, Bermondsey",51.489366,-0.14119,Westminster
 "Stonecutter Street, Holborn",51.504594,-0.11658,Lambeth
 "Devonshire Square, Liverpool Street",51.516406,-0.079625,City of London
-"Gloucester Road (North), Kensington",51.494763,-0.134194,City of Westminster
-"Old Quebec Street, Marylebone",51.514414,-0.158126,City of Westminster
+"Gloucester Road (North), Kensington",51.494763,-0.134194,Westminster
+"Old Quebec Street, Marylebone",51.514414,-0.158126,Westminster
 "Park Road (Baker Street), The Regent's Park",51.51225,-0.06941,Tower Hamlets
-"Little Argyll Street, West End",51.489712,-0.133358,City of Westminster
+"Little Argyll Street, West End",51.489712,-0.133358,Westminster
 "Bayley Street , Bloomsbury",51.52876,-0.059043,Tower Hamlets
 "Walnut Tree Walk, Vauxhall",51.50953,-0.075386,Tower Hamlets
 "Westbourne Grove, Bayswater",51.533642,-0.071596,Hackney
-"Woodstock Street, Mayfair",51.518684,-0.135783,City of Westminster
+"Woodstock Street, Mayfair",51.518684,-0.135783,Westminster
 "St. John Street, Finsbury",51.501896,-0.159249,Kensington and Chelsea
-"Eaton Square, Belgravia",51.495555,-0.151738,City of Westminster
+"Eaton Square, Belgravia",51.495555,-0.151738,Westminster
 "Collingham Gardens, Earl's Court",51.527099,-0.131807,Camden
 "Gloucester Terrace, Bayswater",33.705898,-117.800375,Wandsworth
 "Warwick Square, Pimlico",51.492774,-0.160196,Kensington and Chelsea
 "Torrens Street, Angel",51.515934,-0.053085,Tower Hamlets
-"Tavistock Place, Bloomsbury",51.498309,-0.131488,City of Westminster
+"Tavistock Place, Bloomsbury",51.498309,-0.131488,Westminster
 "Harrington Square 1, Camden Town",51.515546,-0.09913,City of London
-"Finsbury Leisure Centre, St. Luke's",51.515036,-0.112621,City of Westminster
+"Finsbury Leisure Centre, St. Luke's",51.515036,-0.112621,Westminster
 "Old Street Station, St. Luke's",51.520908,-0.083341,City of London
 "Vauxhall Cross, Vauxhall",51.527257,-0.05757,Tower Hamlets
 "Grafton Street, Mayfair",51.519971,-0.135864,Camden
@@ -48,10 +48,10 @@
 "Finsbury Library , Finsbury",51.52731,-0.136076,Camden
 "Hatton Garden, Holborn",51.50665,-0.059851,Tower Hamlets
 "Euston Road, Euston",51.508643,-0.210019,Kensington and Chelsea
-"Belgrove Street , King's Cross",51.511099,-0.143404,City of Westminster
+"Belgrove Street , King's Cross",51.511099,-0.143404,Westminster
 "Cartwright Gardens , Bloomsbury",51.483752,-0.114962,Lambeth
 "Fanshaw Street, Hoxton",51.53538,-0.109438,Islington
-"Bramham Gardens, Earl's Court",53.475009,-3.026259,City of Westminster
+"Bramham Gardens, Earl's Court",53.475009,-3.026259,Westminster
 "Newgate Street , St. Paul's",51.481875,-0.180359,Kensington and Chelsea
 "Commercial Street, Shoreditch",51.473856,-0.112653,Lambeth
 "Guilford Street , Bloomsbury",51.522364,-0.124469,Camden
@@ -63,14 +63,14 @@
 "Clinton Road, Mile End",51.495462,-0.115682,Lambeth
 "Frith Street, Soho",51.521464,-0.052495,Tower Hamlets
 "Manresa Road, Chelsea",51.487075,-0.171653,Kensington and Chelsea
-"East India DLR, Blackwall",51.497897,-0.143094,City of Westminster
+"East India DLR, Blackwall",51.497897,-0.143094,Westminster
 "Aberfeldy Street, Poplar",51.52493,-0.058655,Tower Hamlets
-"Greenland Road, Camden Town",51.512467,-0.193128,City of Westminster
-"Queen Street 2, Bank",51.518874,-0.17519,City of Westminster
+"Greenland Road, Camden Town",51.512467,-0.193128,Westminster
+"Queen Street 2, Bank",51.518874,-0.17519,Westminster
 "East Road, Hoxton",51.51783,-0.060256,Tower Hamlets
 "Murray Grove , Hoxton",51.517907,-0.123727,Camden
 "Fulham Park Road, Fulham",51.50345,-0.008257,Tower Hamlets
-"St Martins Close, Camden Town",51.524124,-0.166405,City of Westminster
+"St Martins Close, Camden Town",51.524124,-0.166405,Westminster
 "Princedale Road , Holland Park",51.493341,-0.121535,Lambeth
 "Lansdowne Road, Ladbroke Grove",51.50611,-0.11468,Lambeth
 "Morie Street, Wandsworth",51.469224,-0.174228,Wandsworth
@@ -78,7 +78,7 @@
 "Braham Street, Aldgate",51.530777,-0.078726,Hackney
 "Ashmole Estate, Oval",51.497561,-0.100823,Southwark
 "All Saints Church, Portobello",51.475449,-0.174036,Wandsworth
-"Philpot Street, Whitechapel",51.497325,-0.142748,City of Westminster
+"Philpot Street, Whitechapel",51.497325,-0.142748,Westminster
 "Jubilee Crescent, Cubitt Town",51.52901,-0.131806,Camden
 "Napier Avenue, Millwall",51.496406,-0.019199,Tower Hamlets
 "Aston Street, Stepney",51.490801,-0.01466,Tower Hamlets
@@ -87,38 +87,38 @@
 "Pott Street, Bethnal Green",53.807657,-1.574645,Tower Hamlets
 "Bethnal Green Road, Shoreditch",51.504431,-0.113142,Lambeth
 "Kennington Road Post Office, Oval",51.512701,-0.076633,City of London
-"Cleveland Gardens, Bayswater",51.515396,-0.1824,City of Westminster
-"Seville Street, Knightsbridge",51.516885,-0.158436,City of Westminster
+"Cleveland Gardens, Bayswater",51.515396,-0.1824,Westminster
+"Seville Street, Knightsbridge",51.516885,-0.158436,Westminster
 "Riverlight North, Nine Elms",51.483626,-0.201561,Hammersmith and Fulham
-"LMU Commercial Road, Whitechapel",51.501636,-0.17459,City of Westminster
+"LMU Commercial Road, Whitechapel",51.501636,-0.17459,Westminster
 "St. Chad's Street, King's Cross",51.490682,-0.166319,Kensington and Chelsea
 "Brunswick Square, Bloomsbury",51.491009,-0.173436,Kensington and Chelsea
 "Drury Lane, Covent Garden",51.501084,-0.093412,Southwark
 "Tower Gardens , Tower",51.511226,-0.092996,City of London
 "Panton Street, West End",51.530938,-0.085553,Hackney
-"Osiers Road, Wandsworth",51.512994,-0.12023,City of Westminster
-"Monier Road, Hackney Wick",51.494898,-0.13187,City of Westminster
+"Osiers Road, Wandsworth",51.512994,-0.12023,Westminster
+"Monier Road, Hackney Wick",51.494898,-0.13187,Westminster
 "East Village, Queen Elizabeth Olympic Park",51.542852,-0.144301,Camden
 "Stratford Station, Stratford",51.53664,-0.076611,Hackney
 "Teversham Lane, Stockwell",51.521756,-0.068827,Tower Hamlets
 "Kennington Lane Rail Bridge, Vauxhall",51.486261,-0.122282,Lambeth
 "Wardour Street, Soho",51.47329,-0.124458,Lambeth
-"Courland Grove, Wandsworth Road",51.525943,-0.17155,City of Westminster
+"Courland Grove, Wandsworth Road",51.525943,-0.17155,Westminster
 "Hurlingham Park, Parsons Green",51.502142,-0.083596,Southwark
 "Putney Rail Station, Putney",51.528278,-0.065368,Tower Hamlets
-"Hereford Road, Bayswater",51.520758,-0.142305,City of Westminster
-"Dorset Square, Marylebone",51.522843,-0.160953,City of Westminster
-"West Smithfield Rotunda, Farringdon",51.497954,-0.135335,City of Westminster
+"Hereford Road, Bayswater",51.520758,-0.142305,Westminster
+"Dorset Square, Marylebone",51.522843,-0.160953,Westminster
+"West Smithfield Rotunda, Farringdon",51.497954,-0.135335,Westminster
 "Aylward Street, Stepney",51.489773,-0.170252,Kensington and Chelsea
 "Columbia Road, Shoreditch",51.526499,-0.107973,Islington
-"Farringdon Street, Holborn",51.490675,-0.141275,City of Westminster
+"Farringdon Street, Holborn",51.490675,-0.141275,Westminster
 "Northington Street , Holborn",51.522181,-0.114642,Islington
 "Shoreditch High Street, Shoreditch",51.492732,-0.114562,Lambeth
 "Grosvenor Crescent, Belgravia",51.521865,-0.046632,Tower Hamlets
 "York Hall, Bethnal Green",51.489445,-0.115093,Lambeth
 "Stepney Green Station, Stepney",51.50769,-0.096397,Southwark
 "Pritchard's Road, Bethnal Green",51.511294,-0.053684,Tower Hamlets
-"Parsons Green Station, Parsons Green",51.529793,-0.185791,City of Westminster
+"Parsons Green Station, Parsons Green",51.529793,-0.185791,Westminster
 "Watney Street, Shadwell",51.51781,-0.107968,Islington
 "Durant Street, Bethnal Green",51.531332,-0.117013,Islington
 "Whitehall Place, Strand",51.521264,-0.084566,Hackney
@@ -131,88 +131,88 @@
 "Wapping High Street, Wapping",51.497437,-0.209495,Hammersmith and Fulham
 "Ilchester Place, Kensington",51.500692,-0.202778,Kensington and Chelsea
 "Hampton Street, Walworth",51.474509,-0.183221,Hammersmith and Fulham
-"Great Marlborough Street, Soho",51.513669,-0.117625,City of Westminster
-"Trebovir Road, Earl's Court",51.511687,-0.113836,City of Westminster
+"Great Marlborough Street, Soho",51.513669,-0.117625,Westminster
+"Trebovir Road, Earl's Court",51.511687,-0.113836,Westminster
 "Sumner Place, South Kensington",51.476804,-0.119826,Lambeth
 "Russell Square Station, Bloomsbury",51.523429,-0.124118,Camden
 "Rampayne Street, Pimlico",51.536914,-0.150158,Camden
-"Knightsbridge, Hyde Park",51.508949,-0.149369,City of Westminster
+"Knightsbridge, Hyde Park",51.508949,-0.149369,Westminster
 "New Cavendish Street, Marylebone",51.493624,-0.111723,Lambeth
-"Abingdon Green, Westminster",51.497615,-0.125966,City of Westminster
+"Abingdon Green, Westminster",51.497615,-0.125966,Westminster
 "Southerton Road, Hammersmith",51.507567,-0.210006,Kensington and Chelsea
 "South Lambeth Road, Vauxhall",51.527568,-0.123595,Camden
 "Elysium Place, Fulham",51.538026,-0.070302,Hackney
-"Howland Street, Fitzrovia",51.496673,-0.137363,City of Westminster
+"Howland Street, Fitzrovia",51.496673,-0.137363,Westminster
 "High Holborn , Covent Garden",51.498815,-0.103012,Southwark
-"Kensington Town Hall, Kensington",51.510935,-0.118109,City of Westminster
+"Kensington Town Hall, Kensington",51.510935,-0.118109,Westminster
 "Millbank Tower, Pimlico",51.528168,-0.075337,Tower Hamlets
 "Swan Street, The Borough",51.505087,-0.113136,Lambeth
 "Putney Pier, Wandsworth",51.523756,-0.034384,Tower Hamlets
-"Wells Street, Fitzrovia",51.499724,-0.154354,City of Westminster
-"Queen Mother Sports Centre, Victoria",51.506504,-0.123274,City of Westminster
-"Gloucester Road Station, South Kensington",51.517937,-0.172689,City of Westminster
+"Wells Street, Fitzrovia",51.499724,-0.154354,Westminster
+"Queen Mother Sports Centre, Victoria",51.506504,-0.123274,Westminster
+"Gloucester Road Station, South Kensington",51.517937,-0.172689,Westminster
 "Edgware Road Station, Marylebone",51.472787,-0.21509,Hammersmith and Fulham
-"Cleaver Street, Kennington",51.4977,-0.137599,City of Westminster
+"Cleaver Street, Kennington",51.4977,-0.137599,Westminster
 "Kennington Station, Kennington",51.51412,-0.073575,City of London
 "Vauxhall Walk, Vauxhall",51.491207,-0.119204,Lambeth
 "Horseferry Road, Westminster",51.521493,-0.089628,Islington
 "Holland Park, Kensington",51.532186,-0.083086,Hackney
 "Pall Mall East, West End",51.496511,-0.176002,Kensington and Chelsea
 "Clifton Road, Maida Vale",51.490791,-0.205687,Hammersmith and Fulham
-"Houghton Street, Strand",51.513538,-0.116719,City of Westminster
+"Houghton Street, Strand",51.513538,-0.116719,Westminster
 "Bourne Street, Belgravia",51.479505,-0.110283,Lambeth
 "Belvedere Road 1, South Bank",51.506103,-0.114675,Lambeth
 "Farm Street, Mayfair",51.4976,-0.211456,Hammersmith and Fulham
 "Marloes Road, Kensington",51.48642,-0.224123,Hammersmith and Fulham
-"Broadwick Street, Soho",51.513391,-0.136533,City of Westminster
+"Broadwick Street, Soho",51.513391,-0.136533,Westminster
 "LSBU (Borough Road), Elephant & Castle",51.500941,-0.104552,Southwark
 "Sheepcote Lane, Battersea",51.4776,-0.149552,Wandsworth
 "Brook Green South, Brook Green",51.528011,-0.057173,Tower Hamlets
 "Charlbert Street, St. John's Wood",51.493987,-0.214755,Hammersmith and Fulham
 "World's End Place, West Chelsea",51.493422,-0.008131,Tower Hamlets
 "Thorndike Close, West Chelsea",51.515886,-0.091931,City of London
-"Olympia Way, Olympia",51.528973,-0.171402,City of Westminster
-"Crinan Street, King's Cross",51.506601,-0.151795,City of Westminster
+"Olympia Way, Olympia",51.528973,-0.171402,Westminster
+"Crinan Street, King's Cross",51.506601,-0.151795,Westminster
 "Wren Street, Holborn",51.525628,-0.087609,Islington
 "Triangle Car Park, Hyde Park",51.529754,-0.111727,Islington
 "Ashley Place, Victoria",51.526155,-0.123673,Camden
-"Shoreditch Park, Hoxton",51.51622,-0.169683,City of Westminster
+"Shoreditch Park, Hoxton",51.51622,-0.169683,Westminster
 "Brick Lane Market, Shoreditch",51.477395,-0.189123,Hammersmith and Fulham
-"Vincent Square, Westminster",51.509668,-0.13146,City of Westminster
+"Vincent Square, Westminster",51.509668,-0.13146,Westminster
 "Tyers Gate, Bermondsey",51.546825,-0.014547,Newham
 "Queen's Gate (South), South Kensington",51.487794,-0.122948,Lambeth
 "Brushfield Street, Liverpool Street",51.492947,-0.099491,Southwark
 "Exhibition Road, Knightsbridge",51.498133,-0.082765,Southwark
 "Regent's Row , Haggerston ",51.51106,-0.05557,Tower Hamlets
 "Victoria Park Road, Hackney Central",51.487653,-0.106737,Lambeth
-"Storey's Gate, Westminster",51.52044,-0.150392,City of Westminster
+"Storey's Gate, Westminster",51.52044,-0.150392,Westminster
 "Northumberland Avenue, Strand",51.47291,-0.132107,Lambeth
-"Bunhill Row, Moorgate",51.521804,-0.16998,City of Westminster
+"Bunhill Row, Moorgate",51.521804,-0.16998,Westminster
 "Palace Gardens Terrace, Notting Hill",51.484862,-0.168245,Kensington and Chelsea
-"Black Prince Road, Vauxhall",51.533033,-0.166093,City of Westminster
+"Black Prince Road, Vauxhall",51.533033,-0.166093,Westminster
 "Grove End Road, St. John's Wood",51.467806,-0.209913,Hammersmith and Fulham
 "Portland Place, Marylebone",51.505675,-0.016097,Tower Hamlets
 "Strand, Strand",52.008907,11.700334,City of London
 "Frampton Street, Paddington",51.49367,-0.164922,Kensington and Chelsea
 "Jubilee Gardens, South Bank",51.526856,-0.126949,Camden
-"St. Mary Axe, Aldgate",51.512262,-0.157122,City of Westminster
+"St. Mary Axe, Aldgate",51.512262,-0.157122,Westminster
 "Risinghill Street, Angel",51.469118,-0.202271,Hammersmith and Fulham
-"Bank of England Museum, Bank",51.517149,-0.157111,City of Westminster
+"Bank of England Museum, Bank",51.517149,-0.157111,Westminster
 "Maida Vale, Maida Vale",51.474485,-0.197542,Hammersmith and Fulham
 "Hampstead Road (Cartmel), Euston",51.530859,-0.089372,Hackney
 "River Street , Clerkenwell",51.498164,-0.109404,Southwark
-"Tavistock Street, Covent Garden",51.511941,-0.120737,City of Westminster
+"Tavistock Street, Covent Garden",51.511941,-0.120737,Westminster
 "Christopher Street, Liverpool Street",51.534453,-0.125518,Camden
-"Hyde Park Corner, Hyde Park",53.814711,-1.561482,City of Westminster
+"Hyde Park Corner, Hyde Park",53.814711,-1.561482,Westminster
 "Broadcasting House, Marylebone",51.501273,-0.093217,Southwark
 "Pembridge Villas, Notting Hill",51.518424,-0.072772,Tower Hamlets
 "Liverpool Road (N1 Centre), Angel",51.463857,-0.114767,Lambeth
 "New Road 1 , Whitechapel",51.515991,-0.111461,City of London
-"Rodney Road , Walworth",51.49598,-0.126999,City of Westminster
+"Rodney Road , Walworth",51.49598,-0.126999,Westminster
 "Beaumont Street, Marylebone",51.527512,-0.110597,Islington
-"Park Street, Bankside",51.525419,-0.175263,City of Westminster
+"Park Street, Bankside",51.525419,-0.175263,Westminster
 "Scala Street, Fitzrovia",51.484437,-0.216785,Hammersmith and Fulham
-"St. James's Square, St. James's",51.514094,-0.180396,City of Westminster
+"St. James's Square, St. James's",51.514094,-0.180396,Westminster
 "Alfred Place, Bloomsbury",51.520522,-0.133342,Camden
 "Millennium Hotel, Mayfair",51.530302,-0.042793,Tower Hamlets
 "Charlotte Street, Fitzrovia",51.530312,-0.107149,Islington
@@ -220,7 +220,7 @@
 "Windsor Terrace, Hoxton",51.506313,-0.022997,Tower Hamlets
 "Hatton Wall, Holborn",51.521578,-0.108909,Islington
 "Hardwick Street, Clerkenwell",51.480573,-0.211018,Hammersmith and Fulham
-"Nutford Place, Marylebone",51.500842,-0.17915,City of Westminster
+"Nutford Place, Marylebone",51.500842,-0.17915,Westminster
 "Union Street, The Borough",51.471367,-0.207189,Hammersmith and Fulham
 "Charles II Street, West End",51.485573,-0.181166,Kensington and Chelsea
 "Berry Street, Clerkenwell",51.514913,-0.066188,Tower Hamlets
@@ -248,14 +248,14 @@
 "Hampstead Road, Euston",51.488452,-0.10925,Lambeth
 "Albert Embankment, Vauxhall",51.487292,-0.124377,Lambeth
 "Gloucester Road (Central), South Kensington",51.5315,-0.098435,Islington
-"Black Lion Gate, Kensington Gardens",51.510131,-0.18782,City of Westminster
-"Godliman Street, St. Paul's",51.520686,-0.153011,City of Westminster
+"Black Lion Gate, Kensington Gardens",51.510131,-0.18782,Westminster
+"Godliman Street, St. Paul's",51.520686,-0.153011,Westminster
 "George Street, Marylebone",51.516123,-0.125101,Islington
 "Bouverie Street, Temple",51.463372,-0.181913,Wandsworth
 "Pancras Road, King's Cross",51.528387,-0.101044,Islington
-"Finsbury Circus, Liverpool Street",51.496207,-0.140753,City of Westminster
+"Finsbury Circus, Liverpool Street",51.496207,-0.140753,Westminster
 "Paddington Street, Marylebone",51.539835,-0.07478,Hackney
-"Nesham Street, Wapping",51.530011,-0.169255,City of Westminster
+"Nesham Street, Wapping",51.530011,-0.169255,Westminster
 "Penywern Road, Earl's Court",51.521151,-0.208868,Kensington and Chelsea
 "Leonard Circus , Shoreditch",51.486671,-0.165771,Kensington and Chelsea
 "Simpson Street, Clapham Junction",51.466147,-0.111964,Lambeth
@@ -263,7 +263,7 @@
 "London Zoo,  The Regent's Park",51.464929,-0.216013,Wandsworth
 "Red Lion Square, Holborn",51.474937,-0.169143,Wandsworth
 "British Museum, Bloomsbury",51.515715,-0.11909,Islington
-"Belgrave Square, Belgravia",51.515558,-0.154537,City of Westminster
+"Belgrave Square, Belgravia",51.515558,-0.154537,Westminster
 "Doric Way , Somers Town",51.490955,-0.190698,Kensington and Chelsea
 "Phillimore Gardens, Kensington",51.475084,-0.201549,Hammersmith and Fulham
 "New Globe Walk, Bankside",51.484257,-0.19688,Hammersmith and Fulham
@@ -277,12 +277,12 @@
 "Hermitage Court, Wapping",51.4751,-0.150908,Wandsworth
 "Whiston Road, Haggerston",51.530361,-0.124425,Camden
 "Hammersmith Road, Hammersmith",51.485969,-0.116791,Lambeth
-"Sloane Avenue, Knightsbridge",51.512695,-0.191122,City of Westminster
-"Southwick Street, Paddington",51.516907,-0.15144,City of Westminster
+"Sloane Avenue, Knightsbridge",51.512695,-0.191122,Westminster
+"Southwick Street, Paddington",51.516907,-0.15144,Westminster
 "Crawford Street, Marylebone",51.494472,-0.173504,Kensington and Chelsea
 "Borough Road, Elephant & Castle",51.496529,-0.183292,Kensington and Chelsea
 "Falkirk Street, Hoxton",51.51542,-0.098732,City of London
-"Regency Street, Westminster",51.514158,-0.147406,City of Westminster
+"Regency Street, Westminster",51.514158,-0.147406,Westminster
 "Royal Avenue 2, Chelsea",51.492427,-0.155235,Kensington and Chelsea
 "Sancroft Street, Vauxhall",51.497386,-0.157364,Kensington and Chelsea
 "Lollard Street, Vauxhall",-37.878961,145.068546,Lambeth
@@ -295,33 +295,33 @@
 "Vereker Road, West Kensington",51.493255,-0.16813,Kensington and Chelsea
 "Saunders Ness Road, Cubitt Town",51.475649,-0.218173,Hammersmith and Fulham
 "Albert Gardens, Stepney",51.516926,-0.117047,Islington
-"Denyer Street, Knightsbridge",51.488692,-0.14201,City of Westminster
+"Denyer Street, Knightsbridge",51.488692,-0.14201,Westminster
 "Wellington Arch, Hyde Park",51.51376,-0.107883,City of London
 "Greyhound Road, Hammersmith",51.51564,-0.105704,City of London
 "St. Mark's Road, North Kensington",51.493703,-0.174543,Kensington and Chelsea
 "Smugglers Way, Wandsworth",-19.277057,146.796489,Wandsworth
 "Pont Street, Knightsbridge",51.513788,-0.022017,Tower Hamlets
 "Waterloo Station 3, Waterloo",51.534486,-0.106961,Islington
-"Royal London Hospital, Whitechapel",51.514002,-0.131752,City of Westminster
+"Royal London Hospital, Whitechapel",51.514002,-0.131752,Westminster
 "Baldwin Street, St. Luke's",51.519243,-0.07252,Tower Hamlets
 "Bermondsey Street, Bermondsey",51.497546,-0.081803,Southwark
-"Graham Street, Angel",51.507687,-0.146346,City of Westminster
-"Southampton Street, Strand",51.506803,-0.146975,City of Westminster
+"Graham Street, Angel",51.507687,-0.146346,Westminster
+"Southampton Street, Strand",51.506803,-0.146975,Westminster
 "Cadogan Gardens, Chelsea",51.490072,-0.162381,Kensington and Chelsea
 "Castlehaven Road, Camden Town",51.496884,-0.171637,Kensington and Chelsea
 "Wapping Lane, Wapping",51.482335,-0.136272,Wandsworth
 "Exhibition Road Museums, South Kensington",51.496916,-0.173877,Kensington and Chelsea
 "Pennington Street, Wapping",51.531125,-0.085958,Hackney
 "Clarkson Street, Bethnal Green",51.541654,-0.004785,Newham
-"Fournier Street, Whitechapel",51.513483,-0.143471,City of Westminster
+"Fournier Street, Whitechapel",51.513483,-0.143471,Westminster
 "Bedford Way, Bloomsbury",51.509248,-0.084728,City of London
 "Chelsea Green, Chelsea",51.481822,-0.185354,Kensington and Chelsea
 "Long Lane , Bermondsey",51.496949,-0.093991,Southwark
 "Palissy Street, Shoreditch",51.51702,-0.093849,City of London
 "Milroy Walk, South Bank",51.477035,-0.116028,Lambeth
-"Bruton Street, Mayfair",51.508834,-0.137641,City of Westminster
+"Bruton Street, Mayfair",51.508834,-0.137641,Westminster
 "St. George's Square, Pimlico",51.531127,-0.119298,Islington
-"Knaresborough Place, Earl's Court",50.872532,-2.964589,City of Westminster
+"Knaresborough Place, Earl's Court",50.872532,-2.964589,Westminster
 "Paddington Green, Paddington",51.461427,-0.200641,Wandsworth
 "Waterloo Bridge, South Bank",51.464499,-0.163529,Wandsworth
 "Cephas Street, Bethnal Green",51.540282,-0.021661,Tower Hamlets
@@ -331,34 +331,34 @@
 "Wellington Row, Bethnal Green",51.528237,-0.070547,Tower Hamlets
 "Harford Street, Mile End",51.518247,-0.021241,Tower Hamlets
 "Duke Street Hill, London Bridge",51.505915,-0.08703,Southwark
-"Plough Terrace, Clapham Junction",51.530579,-0.168392,City of Westminster
+"Plough Terrace, Clapham Junction",51.530579,-0.168392,Westminster
 "Twig Folly Bridge, Mile End",51.533026,-0.02776,Tower Hamlets
 "Haggerston Road, Haggerston",51.526356,-0.073749,Tower Hamlets
 "Hoxton Station, Hoxton",51.524685,-0.084045,Hackney
 "Albany Street, The Regent's Park",51.482765,-0.219984,Hammersmith and Fulham
 "Gaywood  Street, Elephant & Castle",51.491038,-0.209479,Hammersmith and Fulham
 "Bishop's Bridge Road West, Bayswater",51.47761,-0.147585,Wandsworth
-"Kensington Church Street, Kensington",51.521067,-0.145478,City of Westminster
+"Kensington Church Street, Kensington",51.521067,-0.145478,Westminster
 "Elizabeth Bridge, Victoria",51.51287,-0.039046,Tower Hamlets
-"Grosvenor Square, Mayfair",51.519635,-0.139508,City of Westminster
+"Grosvenor Square, Mayfair",51.519635,-0.139508,Westminster
 "Queen's Gate, Kensington Gardens",51.522616,-0.071623,Tower Hamlets
 "City Road, Angel",51.503969,-0.210728,Kensington and Chelsea
 "Goldsmith's Row, Haggerston",51.515099,-0.105443,City of London
-"Harrowby Street, Marylebone",51.517315,-0.164435,City of Westminster
+"Harrowby Street, Marylebone",51.517315,-0.164435,Westminster
 "Goswell Road (City Uni), Finsbury",51.461894,-0.167565,Wandsworth
 "King Edward Walk, Waterloo",51.528137,-0.091615,Islington
-"Natural History Museum, South Kensington",51.494018,-0.13623,City of Westminster
+"Natural History Museum, South Kensington",51.494018,-0.13623,Westminster
 "Stanhope Gate, Mayfair",51.508184,-0.193566,Kensington and Chelsea
-"George Place Mews, Marylebone",51.508448,-0.131887,City of Westminster
+"George Place Mews, Marylebone",51.508448,-0.131887,Westminster
 "Warwick Avenue Station, Maida Vale",51.474248,-0.171254,Wandsworth
 "Curzon Street, Mayfair",51.525486,-0.138213,Camden
-"William IV Street, Strand",51.509443,-0.124383,City of Westminster
+"William IV Street, Strand",51.509443,-0.124383,Westminster
 "Waterloo Road, South Bank",51.486561,-0.115369,Lambeth
-"Queen's Gate (Central), South Kensington",51.506493,-0.142975,City of Westminster
+"Queen's Gate (Central), South Kensington",51.506493,-0.142975,Westminster
 "Pindar Street, Liverpool Street",51.507199,-0.10619,Southwark
 "Royal Avenue 1, Chelsea",51.491684,-0.004786,Tower Hamlets
 "Abingdon Villas, Kensington",51.529291,-0.109478,Islington
-"St. Mary & St. Michael Church, Stepney",51.525011,-0.16621,City of Westminster
+"St. Mary & St. Michael Church, Stepney",51.525011,-0.16621,Westminster
 "St. Martin's Street, West End",51.518375,-0.122189,Camden
 "Lambeth North Station, Waterloo",51.490689,-0.196443,Kensington and Chelsea
 "Bradmead, Battersea Park",51.505174,-0.193929,Kensington and Chelsea
@@ -367,12 +367,12 @@
 "Vicarage Crescent, Battersea",51.54105,-0.143187,Camden
 "Stainsby Road , Poplar",51.515205,-0.014116,Tower Hamlets
 "Ada Street, Hackney Central",51.461632,-0.216565,Wandsworth
-"Marylebone Lane, Marylebone",51.517373,-0.150777,City of Westminster
+"Marylebone Lane, Marylebone",51.517373,-0.150777,Westminster
 "Albert Gate, Hyde Park",51.503008,-0.204135,Kensington and Chelsea
 "Kennington Lane Tesco, Vauxhall",51.479975,-0.140124,Wandsworth
 "Great Percy Street, Clerkenwell",51.496473,-0.102973,Southwark
 "Ontario Street, Elephant & Castle",51.517855,-0.200956,Kensington and Chelsea
-"Craven Street, Strand",51.516897,-0.179886,City of Westminster
+"Craven Street, Strand",51.516897,-0.179886,Westminster
 "Bow Road Station, Bow",51.511889,-0.206078,Kensington and Chelsea
 "Ansell House, Stepney",51.479583,-0.179072,Kensington and Chelsea
 "Russell Gardens, Olympia",51.487513,-0.126818,Lambeth
@@ -381,35 +381,35 @@
 "Hartington Road, Stockwell",51.500111,-0.078528,Southwark
 "Stanley Grove, Battersea",51.527078,-0.02585,Tower Hamlets
 "Felsham Road, Putney",51.467681,-0.174239,Wandsworth
-"Warren Street Station, Euston",51.517052,-0.174371,City of Westminster
+"Warren Street Station, Euston",51.517052,-0.174371,Westminster
 "Colombo Street, Southwark",51.488056,-0.021158,Tower Hamlets
 "Eastbourne Mews, Paddington",51.506816,-0.092749,Southwark
 "Preston's Road, Cubitt Town",51.519022,-0.032768,Tower Hamlets
 "Crabtree Lane, Fulham",51.511899,-0.107156,City of London
-"Upper Bank Street, Canary Wharf",51.490092,-0.148363,City of Westminster
+"Upper Bank Street, Canary Wharf",51.490092,-0.148363,Westminster
 "Globe Town Market, Bethnal Green",51.524991,-0.122021,Camden
 "Westminster University, Marylebone",51.507572,-0.058596,Tower Hamlets
 "Baylis Road, Waterloo",51.499122,-0.112052,Lambeth
-"Orsett Terrace, Bayswater",51.521411,-0.164574,City of Westminster
-"Eccleston Place, Victoria",51.506845,-0.123959,City of Westminster
+"Orsett Terrace, Bayswater",51.521411,-0.164574,Westminster
+"Eccleston Place, Victoria",51.506845,-0.123959,Westminster
 "Green Street, Mayfair",51.519613,-0.06365,Tower Hamlets
 "Park Lane, Mayfair",51.511891,-0.0137,Tower Hamlets
 "Grant Road East, Clapham Junction",51.488091,-0.109927,Lambeth
 "Chapel Place, Marylebone",51.525311,-0.115514,Islington
 "West Cromwell Road, Earl's Court",51.543399,-0.139768,Camden
-"Lexham Gardens, Kensington",51.522458,-0.154845,City of Westminster
+"Lexham Gardens, Kensington",51.522458,-0.154845,Westminster
 "New Kent Road, The Borough",51.494902,-0.098324,Southwark
 "Great Tower Street, Monument",51.510432,-0.082866,City of London
 "Endsleigh Gardens, Euston",51.526753,-0.130549,Camden
 "Old Brompton Road, South Kensington",51.511451,-0.064099,Tower Hamlets
-"Hinde Street, Marylebone",51.508042,-0.125915,City of Westminster
+"Hinde Street, Marylebone",51.508042,-0.125915,Westminster
 "Campden Hill Road, Notting Hill",51.46858,-0.184563,Hammersmith and Fulham
 "Kennington Road  , Vauxhall",51.484442,-0.110106,Lambeth
 "Dock Street, Wapping",51.497951,-0.194828,Kensington and Chelsea
 "Wenlock Road , Hoxton",51.50218,-0.074223,Southwark
-"Phene Street, Chelsea",51.523695,-0.183498,City of Westminster
+"Phene Street, Chelsea",51.523695,-0.183498,Westminster
 "Stephendale Road, Sands End",51.523542,-0.108332,Islington
-"Alma Road, Wandsworth",51.49458,-0.153904,City of Westminster
+"Alma Road, Wandsworth",51.49458,-0.153904,Westminster
 "Austin Road, Battersea Park",51.501398,-0.196463,Kensington and Chelsea
 "Hop Exchange, The Borough",51.504743,-0.09156,Southwark
 "Lower Marsh, Waterloo",51.488013,-0.187497,Kensington and Chelsea
@@ -422,37 +422,37 @@
 "Harper Road, The Borough",51.525839,-0.103855,Islington
 "Tysoe Street, Clerkenwell",51.504886,-0.115372,Lambeth
 "Queen's Gate (North), Kensington",51.497838,-0.011012,Tower Hamlets
-"Baker Street, Marylebone",51.912613,0.749294,City of Westminster
+"Baker Street, Marylebone",51.912613,0.749294,Westminster
 "Museum of London, Barbican",51.517865,-0.096307,City of London
 "Emperor's Gate, South Kensington",51.501946,-0.185012,Kensington and Chelsea
 "Curlew Street, Shad Thames",51.474359,-0.155431,Wandsworth
-"Serpentine Car Park, Hyde Park",51.51165,-0.137192,City of Westminster
-"Chepstow Villas, Notting Hill",51.51688,-0.162746,City of Westminster
-"Waterloo Place, St. James's",51.506336,-0.131923,City of Westminster
+"Serpentine Car Park, Hyde Park",51.51165,-0.137192,Westminster
+"Chepstow Villas, Notting Hill",51.51688,-0.162746,Westminster
+"Waterloo Place, St. James's",51.506336,-0.131923,Westminster
 "Barbican Centre, Barbican",51.522736,-0.053921,Tower Hamlets
-"South Audley Street, Mayfair",51.510935,-0.151247,City of Westminster
+"South Audley Street, Mayfair",51.510935,-0.151247,Westminster
 "Southampton Place, Holborn",51.4782,-0.182451,Kensington and Chelsea
-"Alderney Street, Pimlico",51.518183,-0.163767,City of Westminster
-"Bath Street, St. Luke's",51.520381,-0.170146,City of Westminster
+"Alderney Street, Pimlico",51.518183,-0.163767,Westminster
+"Bath Street, St. Luke's",51.520381,-0.170146,Westminster
 "Smith Square, Westminster",51.519075,-0.20469,Kensington and Chelsea
 "Northdown Street, King's Cross",51.484521,-0.149807,Wandsworth
 "Putney Bridge Station, Fulham",51.502997,-0.018622,Tower Hamlets
-"Colet Gardens, Hammersmith",51.524783,-0.160542,City of Westminster
+"Colet Gardens, Hammersmith",51.524783,-0.160542,Westminster
 "Normand Park, West Kensington",51.500028,-0.21144,Kensington and Chelsea
 "Silverthorne Road, Battersea",51.46777,-0.198662,Hammersmith and Fulham
 "Blythe Road West, Shepherd's Bush",51.494227,-0.191157,Kensington and Chelsea
-"Old Montague Street, Whitechapel",51.490657,-0.132174,City of Westminster
+"Old Montague Street, Whitechapel",51.490657,-0.132174,Westminster
 "Percival Street, Finsbury",51.529653,-0.080186,Hackney
 "New Fetter Lane, Holborn",51.489096,-0.117384,Lambeth
-"Pitfield Street Central, Hoxton",51.510357,-0.142454,City of Westminster
+"Pitfield Street Central, Hoxton",51.510357,-0.142454,Westminster
 "Hollybush Gardens, Bethnal Green",51.477243,-0.164948,Wandsworth
 "Doddington Grove, Kennington",51.483485,-0.147658,Wandsworth
 "Caldwell Street, Stockwell",51.51947,-0.135711,Camden
-"Seymour Place, Marylebone",51.517317,-0.162206,City of Westminster
+"Seymour Place, Marylebone",51.517317,-0.162206,Westminster
 "Maclise Road, Olympia",51.524718,-0.13853,Camden
 "Reardon Street, Wapping",51.500314,-0.159068,Kensington and Chelsea
 "Bow Church Station, Bow",51.529666,-0.024322,Tower Hamlets
-"Watney Market, Stepney",51.499428,-0.179708,City of Westminster
+"Watney Market, Stepney",51.499428,-0.179708,Westminster
 "Bancroft Road, Bethnal Green",51.528019,-0.019866,Tower Hamlets
 "Arlington Road, Camden Town",51.496683,-0.205243,Kensington and Chelsea
 "Riverlight South, Nine Elms",51.499359,-0.009203,Tower Hamlets
@@ -460,13 +460,13 @@
 "Crisp Road, Hammersmith",51.538612,-0.138526,Camden
 "Neville Gill Close, Wandsworth",51.524848,-0.099458,Islington
 "Belford House, Haggerston",51.524812,-0.035382,Tower Hamlets
-"Drummond Street , Euston",51.515131,-0.180378,City of Westminster
-"Spanish Road, Clapham Junction",51.501172,-0.180236,City of Westminster
+"Drummond Street , Euston",51.515131,-0.180378,Westminster
+"Spanish Road, Clapham Junction",51.501172,-0.180236,Westminster
 "Blenheim Crescent, Ladbroke Grove",51.514756,-0.208199,Kensington and Chelsea
 "Penfold Street, Marylebone",51.531842,-0.105714,Islington
 "Southwark Station 1, Southwark",51.526511,-0.027758,Tower Hamlets
 "Cheapside, Bank",51.513912,-0.092817,City of London
-"Cheshire Street, Bethnal Green",51.507489,-0.162237,City of Westminster
+"Cheshire Street, Bethnal Green",51.507489,-0.162237,Westminster
 "St. Katharine's Way, Tower",51.506584,-0.072139,Tower Hamlets
 "Thurtle road, Haggerston",51.519594,-0.02809,Tower Hamlets
 "Mostyn Grove, Bow",51.462007,-0.206233,Wandsworth
@@ -477,14 +477,14 @@
 "Manbre Road, Hammersmith",51.4919,-0.101158,Southwark
 "BBC White City, White City",51.532968,-0.03664,Tower Hamlets
 "Geraldine Street, Elephant & Castle",51.511969,-0.02561,Tower Hamlets
-"Aintree Street, Fulham",51.504433,-0.149786,City of Westminster
+"Aintree Street, Fulham",51.504433,-0.149786,Westminster
 "Lansdowne Walk, Ladbroke Grove",51.531482,-0.094154,Hackney
 "King Edward Street, St Pauls",51.514204,-0.201126,Kensington and Chelsea
-"Page Street, Westminster",51.492271,-0.14698,City of Westminster
+"Page Street, Westminster",51.492271,-0.14698,Westminster
 "Foley Street, Fitzrovia",51.475136,-0.20186,Hammersmith and Fulham
 "Alpha Grove, Millwall",51.491041,-0.01832,Tower Hamlets
-"Flamborough Street, Limehouse",51.519098,-0.163265,City of Westminster
-"Cleveland Way, Stepney",51.519179,-0.147737,City of Westminster
+"Flamborough Street, Limehouse",51.519098,-0.163265,Westminster
+"Cleveland Way, Stepney",51.519179,-0.147737,Westminster
 "Westferry DLR, Limehouse",51.534467,-0.12211,Islington
 "Gloucester Avenue, Camden Town",51.467134,-0.215678,Wandsworth
 "Guildhouse Street, Victoria",51.502647,-0.021662,Tower Hamlets
@@ -492,11 +492,11 @@
 "South Wharf Road, Paddington",51.480883,-0.194349,Hammersmith and Fulham
 "Charing Cross Hospital, Hammersmith",51.460859,-0.212483,Wandsworth
 "Imperial Road, Sands End",51.487253,-0.205462,Hammersmith and Fulham
-"Upcerne Road, West Chelsea",51.507433,-0.134542,City of Westminster
+"Upcerne Road, West Chelsea",51.507433,-0.134542,Westminster
 "Prince of Wales Drive, Battersea Park",51.509744,-0.012009,Tower Hamlets
 "Mile End Park Leisure Centre, Mile End",51.512834,-0.047189,Tower Hamlets
 "Gwendwr Road, West Kensington",51.527827,-0.107338,Islington
-"Victoria & Albert Museum, South Kensington",51.498793,-0.165522,City of Westminster
+"Victoria & Albert Museum, South Kensington",51.498793,-0.165522,Westminster
 "Euston Square Gardens, Euston",51.507139,-0.067044,Tower Hamlets
 "Gunmakers Lane, Old Ford",51.521387,-0.02726,Tower Hamlets
 "Millharbour, Millwall",51.46873,-0.146335,Lambeth
@@ -505,13 +505,13 @@
 "New Spring Gardens Walk, Vauxhall",51.520969,-0.085665,Islington
 "Fore Street Avenue, Guildhall",51.529743,-0.121766,Camden
 "Bankside Mix, Bankside",51.517503,-0.075881,Tower Hamlets
-"Margery Street, Clerkenwell",51.510751,-0.121751,City of Westminster
+"Margery Street, Clerkenwell",51.510751,-0.121751,Westminster
 "Cadogan Place, Knightsbridge",51.497318,-0.09322,Southwark
 "St. Luke's Church, Chelsea",51.534014,-0.091869,Hackney
 "Queen Mary's, Mile End",51.496029,-0.106047,Southwark
-"The Green Bridge, Mile End",51.493865,-0.13098,City of Westminster
+"The Green Bridge, Mile End",51.493865,-0.13098,Westminster
 "Christian Street, Whitechapel",51.508925,-0.196198,Kensington and Chelsea
-"Ackroyd Drive, Bow",51.520413,-0.141402,City of Westminster
+"Ackroyd Drive, Bow",51.520413,-0.141402,Westminster
 "Strata, Elephant & Castle",51.539268,-0.141088,Camden
 "Eaton Square (South), Belgravia",51.496679,-0.009888,Tower Hamlets
 "Islington Green, Angel",51.535767,-0.064753,Hackney
@@ -521,28 +521,28 @@
 "Sandilands Road, Walham Green",51.536719,-0.142275,Camden
 "Rifle Place, Avondale",51.488059,-0.009556,Tower Hamlets
 "Imperial Wharf Station, Sands End",51.505097,-0.100119,Southwark
-"Westminster Bridge Road, Elephant & Castle",51.517148,-0.183437,City of Westminster
+"Westminster Bridge Road, Elephant & Castle",51.517148,-0.183437,Westminster
 "Southwark Street, Bankside",51.505428,-0.098388,Southwark
 "Clapham Road, Lingham Street, Stockwell",51.463086,-0.157343,Wandsworth
 "Sea Containers, South Bank",51.496909,-0.022804,Tower Hamlets
 "Wendon Street, Old Ford",51.515542,-0.038704,Tower Hamlets
 "Ebury Bridge, Pimlico",51.509468,-0.003589,Tower Hamlets
 "Sail Street, Vauxhall",51.461759,-0.165798,Wandsworth
-"Walmer Road, Avondale",51.518328,-0.139696,City of Westminster
+"Walmer Road, Avondale",51.518328,-0.139696,Westminster
 "Parkway, Camden Town",51.536605,-0.146383,Camden
 "Lancaster Drive, Blackwall",51.530769,-0.025684,Tower Hamlets
-"Tallis Street, Temple",51.522586,-0.156735,City of Westminster
+"Tallis Street, Temple",51.522586,-0.156735,Westminster
 "Bridge Avenue, Hammersmith",51.523013,-0.042149,Tower Hamlets
-"Fulham Broadway, Walham Green",51.493237,-0.140385,City of Westminster
-"Hortensia Road, West Brompton",51.486364,-0.137744,City of Westminster
+"Fulham Broadway, Walham Green",51.493237,-0.140385,Westminster
+"Hortensia Road, West Brompton",51.486364,-0.137744,Westminster
 "Lots Road, West Chelsea",51.534489,-0.035939,Tower Hamlets
 "Hammersmith Town Hall, Hammersmith",51.519733,-0.020742,Tower Hamlets
 "Waterloo Station 1, Waterloo",51.587141,-3.161182,Lambeth
-"Imperial College, Knightsbridge",51.516092,-0.187356,City of Westminster
+"Imperial College, Knightsbridge",51.516092,-0.187356,Westminster
 "The Tennis Courts, The Regent's Park",51.514513,-0.077349,City of London
-"Montpelier Street, Knightsbridge",51.524401,-0.166656,City of Westminster
+"Montpelier Street, Knightsbridge",51.524401,-0.166656,Westminster
 "Rathbone Street, Fitzrovia",51.513984,-0.056778,Tower Hamlets
-"Embankment (Savoy), Strand",51.492164,-0.126108,City of Westminster
+"Embankment (Savoy), Strand",51.492164,-0.126108,Westminster
 "The Vale, Chelsea",51.52376,-0.128462,Camden
 "Nevern Place, Earl's Court",51.504533,-0.19248,Kensington and Chelsea
 "Concert Hall Approach 1, South Bank",51.505073,-0.115943,Lambeth
@@ -552,7 +552,7 @@
 "Disraeli Road, Putney",51.494099,-0.12067,Lambeth
 "Alfreda Street, Battersea Park",51.476021,-0.123877,Lambeth
 "Sirdar Road, Avondale",51.533399,-0.139129,Camden
-"Oxford Road, Putney",51.513806,-0.153784,City of Westminster
+"Oxford Road, Putney",51.513806,-0.153784,Westminster
 "Harcourt Terrace, West Brompton",51.49272,-0.092134,Southwark
 "Hoxton Street, Hoxton",51.518169,-0.06265,Tower Hamlets
 "Union Grove, Wandsworth Road",51.521172,-0.209352,Kensington and Chelsea
@@ -565,11 +565,11 @@
 "Macclesfield Rd, St Lukes",51.525909,-0.036108,Tower Hamlets
 "Greycoat Street , Westminster",51.491782,-0.233823,Hammersmith and Fulham
 "Oval Way, Vauxhall",51.497803,-0.109843,Southwark
-"Westbourne Park Road, Portobello",51.531961,-0.177063,City of Westminster
+"Westbourne Park Road, Portobello",51.531961,-0.177063,Westminster
 "Little Brook Green, Brook Green",51.487504,-0.161075,Kensington and Chelsea
 "Abyssinia Close, Clapham Junction",51.518445,-0.043266,Tower Hamlets
 "Cromer Street, Bloomsbury",51.514031,-0.081122,City of London
-"Bevington Road West, North Kensington",51.509627,-0.119051,City of Westminster
+"Bevington Road West, North Kensington",51.509627,-0.119051,Westminster
 "Ethelburga Estate, Battersea Park",51.52603,-0.095141,Islington
 "Hertford Road, De Beauvoir Town",51.526853,-0.089067,Islington
 "Culvert Road, Battersea",51.459372,-0.186113,Wandsworth
@@ -583,10 +583,10 @@
 "Battersea Church Road, Battersea",51.506333,-0.218385,Hammersmith and Fulham
 "Paddington Green Police Station, Paddington",51.539091,-0.070311,Hackney
 "Harrington Square 2, Camden Town",51.478253,-0.144312,Wandsworth
-"Vincent Street, Pimlico",51.492974,-0.130628,City of Westminster
+"Vincent Street, Pimlico",51.492974,-0.130628,Westminster
 "Killick Street, King's Cross",51.477243,-0.164948,Wandsworth
 "Bethnal Green Garden, Bethnal Green",51.47105,-0.126249,Lambeth
-"Hewison Street, Old Ford",51.492678,-0.141822,City of Westminster
+"Hewison Street, Old Ford",51.492678,-0.141822,Westminster
 "Warwick Road, Olympia",51.507974,-0.10684,Southwark
 "Claverton Street, Pimlico",51.514706,-0.023963,Tower Hamlets
 "New North Road 1, Hoxton",51.51303,-0.2195,Kensington and Chelsea
@@ -608,34 +608,34 @@
 "Carnegie Street, King's Cross",51.531258,-0.110352,Islington
 "Erin Close, Walham Green",51.5075,-0.205536,Kensington and Chelsea
 "Gloucester Street, Pimlico",51.519279,-0.032232,Tower Hamlets
-"Chadwell Street, Angel",51.511749,-0.119723,City of Westminster
+"Chadwell Street, Angel",51.511749,-0.119723,Westminster
 "Drayton Gardens, West Chelsea",51.487211,-0.179383,Kensington and Chelsea
 "Kingsway Southbound, Strand",51.504035,-0.104771,Southwark
 "Parson's Green , Parson's Green",51.503663,-0.09341,Southwark
 "Irene Road, Parsons Green",51.482818,-0.223448,Hammersmith and Fulham
-"Wandsworth Town Station, Wandsworth",51.501483,-0.180041,City of Westminster
+"Wandsworth Town Station, Wandsworth",51.501483,-0.180041,Westminster
 "William Morris Way, Sands End",51.54467,-0.033029,Hackney
 "Princes Square, Bayswater",51.532962,-0.136919,Camden
-"Belgrave Road, Victoria",-37.789456,144.928671,City of Westminster
+"Belgrave Road, Victoria",-37.789456,144.928671,Westminster
 "North Wharf Road, Paddington",51.498382,-0.192829,Kensington and Chelsea
-"Southwark Station 2, Southwark",51.52427,-0.163408,City of Westminster
+"Southwark Station 2, Southwark",51.52427,-0.163408,Westminster
 "Fashion Street, Whitechapel",51.526734,-0.104286,Islington
 "Fore Street, Guildhall",51.510102,-0.085945,City of London
-"Lancaster Gate , Bayswater",51.506794,-0.15059,City of Westminster
+"Lancaster Gate , Bayswater",51.506794,-0.15059,Westminster
 "Claremont Square, Angel",51.458151,-0.20587,Wandsworth
 "Green Park Station, Mayfair",51.491483,-0.192711,Kensington and Chelsea
 "Limerston Street, West Chelsea",51.494527,-0.18377,Kensington and Chelsea
 "Fire Brigade Pier, Vauxhall",51.495513,-0.228398,Hammersmith and Fulham
 "Aberdeen Place, St. John's Wood",51.478709,-0.126412,Lambeth
-"Shouldham Street, Marylebone",51.515033,-0.165474,City of Westminster
+"Shouldham Street, Marylebone",51.515033,-0.165474,Westminster
 "Chelsea Bridge, Pimlico",51.492413,-0.093342,Southwark
-"South Parade, Chelsea",51.51353,-0.191323,City of Westminster
+"South Parade, Chelsea",51.51353,-0.191323,Westminster
 "Garnet Street, Shadwell",51.535489,-0.082572,Hackney
-"Bonny Street, Camden Town",51.501077,-0.129547,City of Westminster
+"Bonny Street, Camden Town",51.501077,-0.129547,Westminster
 "Old Ford Road, Bethnal Green",51.518969,-0.131263,Camden
-"Eagle Wharf Road, Hoxton",51.514474,-0.141436,City of Westminster
+"Eagle Wharf Road, Hoxton",51.514474,-0.141436,Westminster
 "Westfield Library Corner, Shepherd's Bush",51.524479,-0.079404,Hackney
-"Canton Street, Poplar",51.485872,-0.149805,City of Westminster
+"Canton Street, Poplar",51.485872,-0.149805,Westminster
 "Devons Road, Bow",51.470403,-0.161258,Wandsworth
 "Driffield Road, Old Ford",51.494647,-0.158067,Kensington and Chelsea
 "Clarges Street, Mayfair",51.5338,-0.118647,Islington
@@ -645,7 +645,7 @@
 "Broadley Terrace, Marylebone",51.49496,-0.115922,Lambeth
 "Rossmore Road, Marylebone",51.491192,-0.117523,Lambeth
 "Lavington Street, Bankside",51.47562,-0.175342,Wandsworth
-"One Tower Bridge, Bermondsey",51.518783,-0.143831,City of Westminster
+"One Tower Bridge, Bermondsey",51.518783,-0.143831,Westminster
 "Saltoun Road, Brixton",51.452566,-2.572723,Lambeth
 "Allington Street, Victoria",51.525226,-0.135196,Camden
 "Howick Place, Westminster",51.516066,-0.082121,City of London
@@ -653,12 +653,12 @@
 "Falcon Road, Clapham Junction",51.463874,-0.167831,Wandsworth
 "Great Suffolk Street, The Borough",51.502867,-0.101296,Southwark
 "Evesham Street, Avondale",51.476405,-0.194822,Hammersmith and Fulham
-"Buckingham Gate, Westminster",51.499608,-0.139797,City of Westminster
+"Buckingham Gate, Westminster",51.499608,-0.139797,Westminster
 "Westbridge Road, Battersea",51.51362,-0.198333,Kensington and Chelsea
 "Royal College Street, Camden Town",51.468726,-0.210292,Hammersmith and Fulham
-"Ashley Crescent, Battersea",51.499861,-0.17691,City of Westminster
+"Ashley Crescent, Battersea",51.499861,-0.17691,Westminster
 "Bishop's Avenue, Fulham",51.464934,-0.172883,Wandsworth
-"Blackfriars Road, Southwark",51.515347,-0.146767,City of Westminster
+"Blackfriars Road, Southwark",51.515347,-0.146767,Westminster
 "Fisherman's Walk West, Canary Wharf",51.525314,-0.077446,Hackney
 "Jubilee Street, Stepney",51.529125,-0.093388,Hackney
 "Pitfield Street North,Hoxton",51.514682,-0.210252,Kensington and Chelsea
@@ -672,13 +672,13 @@
 "Everington Street, Fulham",51.521937,-0.063102,Tower Hamlets
 "Finnis Street, Bethnal Green",51.510933,-0.214588,Kensington and Chelsea
 "St. Peter's Terrace, Fulham",51.460705,-0.216394,Wandsworth
-"Queensdale Road, Shepherd's Bush",51.488443,-0.135208,City of Westminster
+"Queensdale Road, Shepherd's Bush",51.488443,-0.135208,Westminster
 "Podium, Queen Elizabeth Olympic Park",48.336825,-116.395027,Newham
 "Lansdowne Way Bus Garage, Stockwell",51.460183,-0.190275,Wandsworth
 "Ormonde Gate, Chelsea",51.527862,-0.055738,Tower Hamlets
 "Grenfell Road, Avondale",51.511168,-0.056498,Tower Hamlets
 "Tate Modern, Bankside",51.479311,-0.195629,Hammersmith and Fulham
-"Houndsditch, Aldgate",51.525637,-0.179189,City of Westminster
+"Houndsditch, Aldgate",51.525637,-0.179189,Westminster
 "Ossulston Street, Somers Town",51.517934,-0.096797,City of London
 "Good's Way, King's Cross",51.537028,-0.122977,Camden
 "Cranmer Road, Stockwell",51.508793,-0.060881,Tower Hamlets
@@ -686,23 +686,23 @@
 "York Way, Kings Cross",51.532144,-0.105443,Islington
 "Cadogan Close, Victoria Park",51.513787,-0.098451,City of London
 "Montserrat Road , Putney",51.45878,-0.201095,Wandsworth
-"Albert Bridge Road, Battersea Park",51.511846,-0.175108,City of Westminster
+"Albert Bridge Road, Battersea Park",51.511846,-0.175108,Westminster
 "Coram Street, Bloomsbury",51.523861,-0.126735,Camden
 "Birkenhead Street, King's Cross",51.53056,-0.122581,Camden
-"Bromley High Street, Bow",51.49477,-0.136287,City of Westminster
+"Bromley High Street, Bow",51.49477,-0.136287,Westminster
 "Furze Green, Bow",51.476249,-0.206139,Hammersmith and Fulham
-"Sackville Street, Mayfair",51.509076,-0.129745,City of Westminster
+"Sackville Street, Mayfair",51.509076,-0.129745,Westminster
 "Prince Albert Road, The Regent's Park",51.510222,-0.068286,Tower Hamlets
 "Belvedere Road 2, South Bank",51.503335,-0.216734,Hammersmith and Fulham
 "Battersea Power Station, Battersea Park",51.500946,-0.082895,Southwark
-"Normandy Road, Stockwell",51.511524,-0.151389,City of Westminster
+"Normandy Road, Stockwell",51.511524,-0.151389,Westminster
 "Sidney Road, Stockwell",51.492406,-0.17841,Kensington and Chelsea
 "Concert Hall Approach 2, South Bank",51.528715,-0.127579,Camden
 "London Zoo Car Park, The Regent's Park",51.504233,-0.1045,Southwark
 "Waterloo Station 2, Waterloo",51.489854,-0.162679,Kensington and Chelsea
 "Harriet Street, Knightsbridge",51.528993,-0.055884,Tower Hamlets
 "Turquoise Island, Notting Hill",51.522562,-0.1315,Camden
-"Moor Street, Soho",51.513494,-0.129878,City of Westminster
+"Moor Street, Soho",51.513494,-0.129878,Westminster
 "Vauxhall Street, Vauxhall",51.501987,-0.016183,Tower Hamlets
 "Lord's, St. John's Wood",51.528272,-0.013732,Tower Hamlets
 "Snow Hill, Farringdon",43.462102,-80.525301,City of London
@@ -710,7 +710,7 @@
 "Walworth Road, Elephant & Castle",51.493107,-0.099843,Southwark
 "Granby Street, Shoreditch",51.529893,-0.123624,Camden
 "Selby Street, Whitechapel",51.472723,-0.148007,Wandsworth
-"Ford Road, Old Ford",51.510665,-0.152325,City of Westminster
+"Ford Road, Old Ford",51.510665,-0.152325,Westminster
 "Bell Street , Marylebone",51.481389,-0.138176,Wandsworth
 "Naval Row, Blackwall",51.484387,-0.211893,Hammersmith and Fulham
 "Castalia Square, Cubitt Town",51.493281,-0.237073,Hammersmith and Fulham
@@ -725,9 +725,9 @@
 "Peterborough Road, Sands End",51.462434,-0.189388,Wandsworth
 "Salmon Lane, Limehouse",51.484661,-0.206515,Hammersmith and Fulham
 "East Ferry Road, Cubitt Town",51.535468,-0.116167,Islington
-"Burdett Road, Mile End",51.520374,-0.170585,City of Westminster
+"Burdett Road, Mile End",51.520374,-0.170585,Westminster
 "Heron Quays DLR, Canary Wharf",51.535981,-0.0266,Tower Hamlets
-"Addison Road, Holland Park",51.490162,-0.13638,City of Westminster
+"Addison Road, Holland Park",51.490162,-0.13638,Westminster
 "Newby Place, Poplar",51.505922,-0.105065,Southwark
 "Upper Grosvenor Street, Mayfair",51.454439,-0.194946,Wandsworth
 "Buxton Street 1, Shoreditch",51.505759,-0.026885,Tower Hamlets
@@ -736,17 +736,17 @@
 "Kennington Oval, Oval",51.526314,-0.104373,Islington
 "Kingsway, Covent Garden",51.505736,-0.099794,Southwark
 "Dickens Square, Borough",51.469832,-0.117933,Lambeth
-"Butler Place, Westminster",51.501804,-0.152753,City of Westminster
+"Butler Place, Westminster",51.501804,-0.152753,Westminster
 "Santos Road, Wandsworth",51.518753,-0.011678,Tower Hamlets
 "Archbishop's Park, Waterloo",51.461342,-0.15926,Wandsworth
 "Clarence Walk, Stockwell",51.517543,-0.107949,City of London
 "Copper Box Arena, Queen Elizabeth Olympic Park",51.514248,-0.075719,City of London
 "Victory Place, Walworth",51.535058,-0.081159,Hackney
 "St John's Crescent, Brixton",51.486183,-0.212464,Hammersmith and Fulham
-"Jubilee Plaza, Canary Wharf",51.520459,-0.174068,City of Westminster
+"Jubilee Plaza, Canary Wharf",51.520459,-0.174068,Westminster
 "Grosvenor Road, Pimlico",51.46895,-0.156146,Wandsworth
-"Import Dock, Canary Wharf",51.493845,-0.147728,City of Westminster
-"Westfield Ariel Way, White City",51.520405,-0.171322,City of Westminster
+"Import Dock, Canary Wharf",51.493845,-0.147728,Westminster
+"Westfield Ariel Way, White City",51.520405,-0.171322,Westminster
 "Finlay Street, Fulham",51.478843,-0.208616,Hammersmith and Fulham
 "Queensbridge Road, Haggerston",51.485927,-0.175874,Kensington and Chelsea
 "Rectory Square, Stepney",51.509248,-0.216008,Kensington and Chelsea
@@ -754,10 +754,10 @@
 "Here East South, Queen Elizabeth Olympic Park",51.515833,-0.047554,Tower Hamlets
 "South Quay East, Canary Wharf",51.522674,-0.030244,Tower Hamlets
 "Heath Road, Battersea",51.498982,-0.019776,Tower Hamlets
-"Stockwell Roundabout, Stockwell",51.517719,-0.184402,City of Westminster
-"Stewart's Road, Wandsworth Road",51.531716,-0.167858,City of Westminster
+"Stockwell Roundabout, Stockwell",51.517719,-0.184402,Westminster
+"Stewart's Road, Wandsworth Road",51.531716,-0.167858,Westminster
 "Mexfield Road, East Putney",51.460934,-0.215348,Wandsworth
-"Lee Valley VeloPark, Queen Elizabeth Olympic Park",51.514911,-0.135085,City of Westminster
+"Lee Valley VeloPark, Queen Elizabeth Olympic Park",51.514911,-0.135085,Westminster
 "Ingrave Street, Clapham Junction",51.487041,-0.219677,Hammersmith and Fulham
-"Hawley Crescent, Camden Town",51.510473,-0.187233,City of Westminster
+"Hawley Crescent, Camden Town",51.510473,-0.187233,Westminster
 "Michael Road, Walham Green",51.536451,-0.112566,Islington
