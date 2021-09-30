@@ -5,33 +5,31 @@
   "title": "Bike Hire in London",
   "projection": {"type": "equalEarth"},
   "data": {
-        "url": "https://raw.githubusercontent.com/c-man01/fit3179/main/js/london-topojson.topojson",
-        "format": {"type": "topojson", "feature": "london_geo"}
+        "url": "https://raw.githubusercontent.com/vega/vega-datasets/next/data/londonBoroughs.json",
+        "format": {"type": "topojson", "feature": "boroughs"}
       },
       "transform": [
         {
-          "lookup": "properties.NAME",
+          "lookup": "id",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/c-man01/fit3179/main/data/cycle-stations.csv"},
+              "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/data/boroughs.csv"},
             "key": "Borough",
-            "fields": ["Active"]
+            "fields": ["count"]
           }
-          },
-        }],
-          "groupby": ["StartStation Name"]
-        }],
-
-      "mark": {"type": "circle"},
+        },
+        {"calculate": "datum.count + 1", "as": "Hire Count"}
+      ],
+      "mark": {"type": "geoshape"},
       "encoding": {
-        "longitude": {"field": "StartStation Lng", "type": "quantitative"},
-        "latitude": {"field": "StartStation Lat", "type": "quantitative"},
-        "size": {
-          "field": "Hire",
+        "color":{
+          "field": "Hire Count",
           "type": "quantitative",
-          "scale": {"domain": [4, 10000]}
-        }
+          "scale":{"type": "linear"}
+        },
+        "tooltip": [
+          {"field": "id", "type": "nominal", "title": "Borough"},
+          {"field": "count", "type": "quantitative"}
+        ]
       }
     }
-  ]
-}
