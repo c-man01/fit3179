@@ -1,34 +1,34 @@
-﻿Borough,count,Inner/ Outer London,Population Estimate 2016
-Camden,628909.0,Inner London,240595
-City of London,637825.0,Inner London,8548
-Hackney,406498.0,Inner London,270912
-Hammersmith and Fulham,597517.0,Inner London,183354
-Islington,717727.0,Inner London,228397
-Kensington and Chelsea,1167602.0,Inner London,158447
-Lambeth,700355.0,Inner London,325455
-Newham,19142.0,Inner London,337378
-Southwark,688604.0,Inner London,310642
-Tower Hamlets,1249349.0,Inner London,297805
-Wandsworth,629584.0,Inner London,318253
-Westminster,2184874.0,Inner London,239862
-Barking and Dagenham,,Outer London,205773
-Barnet,,Outer London,385108
-Bexley,,Outer London,243303
-Brent,,Outer London,328568
-Bromley,,Outer London,326560
-Croydon,,Outer London,383408
-Ealing,,Outer London,348533
-Enfield,,Outer London,330968
-Greenwich,,Outer London,275868
-Haringey,,Inner London,274803
-Harrow,,Outer London,250703
-Havering,,Outer London,251611
-Hillingdon,,Outer London,299474
-Hounslow,,Outer London,272102
-Kingston upon Thames,,Outer London,173853
-Lewisham,,Inner London,299817
-Merton,,Outer London,207141
-Redbridge,,Outer London,301022
-Richmond upon Thames,,Outer London,196602
-Sutton,,Outer London,201751
-Waltham Forest,,Outer London,274139
+﻿Borough,count,Inner/ Outer London,Population 2016,Hires-per-capita
+Camden,628909,Inner London,240595,2.61397369
+City of London,637825,Inner London,8548,74.61686944
+Hackney,406498,Inner London,270912,1.500479861
+Hammersmith and Fulham,597517,Inner London,183354,3.258816279
+Islington,717727,Inner London,228397,3.14245371
+Kensington and Chelsea,1167602,Inner London,158447,7.369038227
+Lambeth,700355,Inner London,325455,2.151925765
+Newham,19142,Inner London,337378,0.056737547
+Southwark,688604,Inner London,310642,2.216712486
+Tower Hamlets,1249349,Inner London,297805,4.195191484
+Wandsworth,629584,Inner London,318253,1.978250009
+Westminster,2184874,Inner London,239862,9.108879272
+Barking and Dagenham,,Outer London,205773,0
+Barnet,,Outer London,385108,0
+Bexley,,Outer London,243303,0
+Brent,,Outer London,328568,0
+Bromley,,Outer London,326560,0
+Croydon,,Outer London,383408,0
+Ealing,,Outer London,348533,0
+Enfield,,Outer London,330968,0
+Greenwich,,Outer London,275868,0
+Haringey,,Inner London,274803,0
+Harrow,,Outer London,250703,0
+Havering,,Outer London,251611,0
+Hillingdon,,Outer London,299474,0
+Hounslow,,Outer London,272102,0
+Kingston upon Thames,,Outer London,173853,0
+Lewisham,,Inner London,299817,0
+Merton,,Outer London,207141,0
+Redbridge,,Outer London,301022,0
+Richmond upon Thames,,Outer London,196602,0
+Sutton,,Outer London,201751,0
+Waltham Forest,,Outer London,274139,0

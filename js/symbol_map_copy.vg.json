@@ -8,8 +8,8 @@
   [{
     "mark":{"type": "geoshape", "fill": "#ddd", "stroke": "#fff"},
     "data":{
-      "url": "https://raw.githubusercontent.com/c-man01/fit3179/main/js/london-topojson.topojson",
-      "format": {"type": "topojson", "feature": "london_geo"}
+      "url": "https://raw.githubusercontent.com/vega/vega-datasets/next/data/londonBoroughs.json",
+      "format": {"type": "topojson", "feature": "boroughs"}
       }
   },
   {
