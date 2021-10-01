@@ -16,10 +16,10 @@
           "data": {
             "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/data/boroughs.csv"},
           "key": "Borough",
-          "fields": ["Hires-per-capita"]
+          "fields": ["count"]
         }
       },
-      {"calculate": "datum.Hires-per-capita + 1", "as": "Hire Count"}
+      {"calculate": "datum.count + 1", "as": "Hire Count"}
     ],
     "mark": {"type": "geoshape"},
     "encoding": {
@@ -30,7 +30,7 @@
       },
       "tooltip": [
         {"field": "id", "type": "nominal", "title": "Borough"},
-        {"field": "Hires-per-capita", "type": "quantitative"}
+        {"field": "count", "type": "quantitative"}
       ]
     }
   }
