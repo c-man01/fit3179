@@ -2,5 +2,19 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 900,
   "height": 560,
-  "data": {}
+  "data": {"url": "https://raw.githubusercontent.com/c-man01/fit3179/master/data/mth-hires.csv"},
+  "mark": "area",
+  "encoding": {
+    "x": {
+      "timeUnit": "month", "field": "month", "type": "temporal",
+      "axis": {"format": "month"}
+    },
+    "y": {
+      "aggregate": "sum", "field": "hire-cnt", "type": "quantitative"},
+      "color":{
+        "field": "Borough", "type": "nominal",
+        "scale": {"scheme": "paired"}
+      }
+    }
+  }
 }

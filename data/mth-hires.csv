@@ -1,145 +1,145 @@
-﻿mth_idx,month,Borough,hire-cnt
-1,Jan,Camden,42733
-1,Jan,City of London,47345
-1,Jan,Hackney,29061
-1,Jan,Hammersmith and Fulham,38138
-1,Jan,Islington,49946
-1,Jan,Kensington and Chelsea,77731
-1,Jan,Lambeth,53357
-1,Jan,Newham,1983
-1,Jan,Southwark,46794
-1,Jan,Tower Hamlets,84179
-1,Jan,Wandsworth,43479
-1,Jan,Westminster,152812
-2,Feb,Camden,42252
-2,Feb,City of London,47703
-2,Feb,Hackney,29041
-2,Feb,Hammersmith and Fulham,38875
-2,Feb,Islington,50528
-2,Feb,Kensington and Chelsea,78938
-2,Feb,Lambeth,52286
-2,Feb,Newham,2351
-2,Feb,Southwark,46778
-2,Feb,Tower Hamlets,87694
-2,Feb,Wandsworth,43577
-2,Feb,Westminster,157227
-3,Mar,Camden,48417
-3,Mar,City of London,53396
-3,Mar,Hackney,32812
-3,Mar,Hammersmith and Fulham,45392
-3,Mar,Islington,56055
-3,Mar,Kensington and Chelsea,87529
-3,Mar,Lambeth,60698
-3,Mar,Newham,2482
-3,Mar,Southwark,53144
-3,Mar,Tower Hamlets,96893
-3,Mar,Wandsworth,50050
-3,Mar,Westminster,179106
-4,Apr,Camden,52795
-4,Apr,City of London,57175
-4,Apr,Hackney,36269
-4,Apr,Hammersmith and Fulham,49591
-4,Apr,Islington,60448
-4,Apr,Kensington and Chelsea,101870
-4,Apr,Lambeth,64778
-4,Apr,Newham,3385
-4,Apr,Southwark,56124
-4,Apr,Tower Hamlets,110688
-4,Apr,Wandsworth,55941
-4,Apr,Westminster,204104
-5,May,Camden,59888
-5,May,City of London,63419
-5,May,Hackney,41541
-5,May,Hammersmith and Fulham,56515
-5,May,Islington,68623
-5,May,Kensington and Chelsea,113582
-5,May,Lambeth,75275
-5,May,Newham,3556
-5,May,Southwark,64678
-5,May,Tower Hamlets,126125
-5,May,Wandsworth,63343
-5,May,Westminster,226371
-6,Jun,Camden,60109
-6,Jun,City of London,62044
-6,Jun,Hackney,40840
-6,Jun,Hammersmith and Fulham,58026
-6,Jun,Islington,66836
-6,Jun,Kensington and Chelsea,111175
-6,Jun,Lambeth,75027
-6,Jun,Newham,4317
-6,Jun,Southwark,64693
-6,Jun,Tower Hamlets,125415
-6,Jun,Wandsworth,63715
-6,Jun,Westminster,226211
-7,Jul,Camden,69029
-7,Jul,City of London,72852
-7,Jul,Hackney,46718
-7,Jul,Hammersmith and Fulham,65882
-7,Jul,Islington,76329
-7,Jul,Kensington and Chelsea,130933
-7,Jul,Lambeth,85392
-7,Jul,Newham,4530
-7,Jul,Southwark,77350
-7,Jul,Tower Hamlets,145420
-7,Jul,Wandsworth,72914
-7,Jul,Westminster,250454
-8,Aug,Camden,61196
-8,Aug,City of London,65515
-8,Aug,Hackney,40930
-8,Aug,Hammersmith and Fulham,60675
-8,Aug,Islington,71816
-8,Aug,Kensington and Chelsea,119015
-8,Aug,Lambeth,77072
-8,Aug,Newham,4633
-8,Aug,Southwark,68359
-8,Aug,Tower Hamlets,130406
-8,Aug,Wandsworth,66569
-8,Aug,Westminster,231674
-9,Sep,Camden,58780
-9,Sep,City of London,62179
-9,Sep,Hackney,36429
-9,Sep,Hammersmith and Fulham,57071
-9,Sep,Islington,64767
-9,Sep,Kensington and Chelsea,107629
-9,Sep,Lambeth,73268
-9,Sep,Newham,3113
-9,Sep,Southwark,64131
-9,Sep,Tower Hamlets,118707
-9,Sep,Wandsworth,57500
-9,Sep,Westminster,212082
-10,Oct,Camden,52386
-10,Oct,City of London,54303
-10,Oct,Hackney,31827
-10,Oct,Hammersmith and Fulham,50202
-10,Oct,Islington,59781
-10,Oct,Kensington and Chelsea,93556
-10,Oct,Lambeth,67655
-10,Oct,Newham,2392
-10,Oct,Southwark,56767
-10,Oct,Tower Hamlets,105634
-10,Oct,Wandsworth,49676
-10,Oct,Westminster,184264
-11,Nov,Camden,45539
-11,Nov,City of London,47528
-11,Nov,Hackney,27332
-11,Nov,Hammersmith and Fulham,43307
-11,Nov,Islington,52186
-11,Nov,Kensington and Chelsea,79994
-11,Nov,Lambeth,57538
-11,Nov,Newham,1829
-11,Nov,Southwark,49909
-11,Nov,Tower Hamlets,89132
-11,Nov,Wandsworth,43160
-11,Nov,Westminster,156972
-12,Dec,Camden,35785
-12,Dec,City of London,37552
-12,Dec,Hackney,22845
-12,Dec,Hammersmith and Fulham,33843
-12,Dec,Islington,40412
-12,Dec,Kensington and Chelsea,65650
-12,Dec,Lambeth,44633
-12,Dec,Newham,1587
-12,Dec,Southwark,39877
-12,Dec,Tower Hamlets,71765
-12,Dec,Wandsworth,35607
-12,Dec,Westminster,128773
+﻿mth_idx,date,Borough,hire-cnt
+1,1/01/2019,Camden,42733
+1,1/01/2019,City of London,47345
+1,1/01/2019,Hackney,29061
+1,1/01/2019,Hammersmith and Fulham,38138
+1,1/01/2019,Islington,49946
+1,1/01/2019,Kensington and Chelsea,77731
+1,1/01/2019,Lambeth,53357
+1,1/01/2019,Newham,1983
+1,1/01/2019,Southwark,46794
+1,1/01/2019,Tower Hamlets,84179
+1,1/01/2019,Wandsworth,43479
+1,1/01/2019,Westminster,152812
+2,1/02/2019,Camden,42252
+2,1/02/2019,City of London,47703
+2,1/02/2019,Hackney,29041
+2,1/02/2019,Hammersmith and Fulham,38875
+2,1/02/2019,Islington,50528
+2,1/02/2019,Kensington and Chelsea,78938
+2,1/02/2019,Lambeth,52286
+2,1/02/2019,Newham,2351
+2,1/02/2019,Southwark,46778
+2,1/02/2019,Tower Hamlets,87694
+2,1/02/2019,Wandsworth,43577
+2,1/02/2019,Westminster,157227
+3,1/03/2019,Camden,48417
+3,1/03/2019,City of London,53396
+3,1/03/2019,Hackney,32812
+3,1/03/2019,Hammersmith and Fulham,45392
+3,1/03/2019,Islington,56055
+3,1/03/2019,Kensington and Chelsea,87529
+3,1/03/2019,Lambeth,60698
+3,1/03/2019,Newham,2482
+3,1/03/2019,Southwark,53144
+3,1/03/2019,Tower Hamlets,96893
+3,1/03/2019,Wandsworth,50050
+3,1/03/2019,Westminster,179106
+4,1/04/2019,Camden,52795
+4,1/04/2019,City of London,57175
+4,1/04/2019,Hackney,36269
+4,1/04/2019,Hammersmith and Fulham,49591
+4,1/04/2019,Islington,60448
+4,1/04/2019,Kensington and Chelsea,101870
+4,1/04/2019,Lambeth,64778
+4,1/04/2019,Newham,3385
+4,1/04/2019,Southwark,56124
+4,1/04/2019,Tower Hamlets,110688
+4,1/04/2019,Wandsworth,55941
+4,1/04/2019,Westminster,204104
+5,1/05/2019,Camden,59888
+5,1/05/2019,City of London,63419
+5,1/05/2019,Hackney,41541
+5,1/05/2019,Hammersmith and Fulham,56515
+5,1/05/2019,Islington,68623
+5,1/05/2019,Kensington and Chelsea,113582
+5,1/05/2019,Lambeth,75275
+5,1/05/2019,Newham,3556
+5,1/05/2019,Southwark,64678
+5,1/05/2019,Tower Hamlets,126125
+5,1/05/2019,Wandsworth,63343
+5,1/05/2019,Westminster,226371
+6,1/06/2019,Camden,60109
+6,1/06/2019,City of London,62044
+6,1/06/2019,Hackney,40840
+6,1/06/2019,Hammersmith and Fulham,58026
+6,1/06/2019,Islington,66836
+6,1/06/2019,Kensington and Chelsea,111175
+6,1/06/2019,Lambeth,75027
+6,1/06/2019,Newham,4317
+6,1/06/2019,Southwark,64693
+6,1/06/2019,Tower Hamlets,125415
+6,1/06/2019,Wandsworth,63715
+6,1/06/2019,Westminster,226211
+7,1/07/2019,Camden,69029
+7,1/07/2019,City of London,72852
+7,1/07/2019,Hackney,46718
+7,1/07/2019,Hammersmith and Fulham,65882
+7,1/07/2019,Islington,76329
+7,1/07/2019,Kensington and Chelsea,130933
+7,1/07/2019,Lambeth,85392
+7,1/07/2019,Newham,4530
+7,1/07/2019,Southwark,77350
+7,1/07/2019,Tower Hamlets,145420
+7,1/07/2019,Wandsworth,72914
+7,1/07/2019,Westminster,250454
+8,1/08/2019,Camden,61196
+8,1/08/2019,City of London,65515
+8,1/08/2019,Hackney,40930
+8,1/08/2019,Hammersmith and Fulham,60675
+8,1/08/2019,Islington,71816
+8,1/08/2019,Kensington and Chelsea,119015
+8,1/08/2019,Lambeth,77072
+8,1/08/2019,Newham,4633
+8,1/08/2019,Southwark,68359
+8,1/08/2019,Tower Hamlets,130406
+8,1/08/2019,Wandsworth,66569
+8,1/08/2019,Westminster,231674
+9,1/09/2019,Camden,58780
+9,1/09/2019,City of London,62179
+9,1/09/2019,Hackney,36429
+9,1/09/2019,Hammersmith and Fulham,57071
+9,1/09/2019,Islington,64767
+9,1/09/2019,Kensington and Chelsea,107629
+9,1/09/2019,Lambeth,73268
+9,1/09/2019,Newham,3113
+9,1/09/2019,Southwark,64131
+9,1/09/2019,Tower Hamlets,118707
+9,1/09/2019,Wandsworth,57500
+9,1/09/2019,Westminster,212082
+10,1/10/2019,Camden,52386
+10,1/10/2019,City of London,54303
+10,1/10/2019,Hackney,31827
+10,1/10/2019,Hammersmith and Fulham,50202
+10,1/10/2019,Islington,59781
+10,1/10/2019,Kensington and Chelsea,93556
+10,1/10/2019,Lambeth,67655
+10,1/10/2019,Newham,2392
+10,1/10/2019,Southwark,56767
+10,1/10/2019,Tower Hamlets,105634
+10,1/10/2019,Wandsworth,49676
+10,1/10/2019,Westminster,184264
+11,1/11/2019,Camden,45539
+11,1/11/2019,City of London,47528
+11,1/11/2019,Hackney,27332
+11,1/11/2019,Hammersmith and Fulham,43307
+11,1/11/2019,Islington,52186
+11,1/11/2019,Kensington and Chelsea,79994
+11,1/11/2019,Lambeth,57538
+11,1/11/2019,Newham,1829
+11,1/11/2019,Southwark,49909
+11,1/11/2019,Tower Hamlets,89132
+11,1/11/2019,Wandsworth,43160
+11,1/11/2019,Westminster,156972
+12,1/12/2019,Camden,35785
+12,1/12/2019,City of London,37552
+12,1/12/2019,Hackney,22845
+12,1/12/2019,Hammersmith and Fulham,33843
+12,1/12/2019,Islington,40412
+12,1/12/2019,Kensington and Chelsea,65650
+12,1/12/2019,Lambeth,44633
+12,1/12/2019,Newham,1587
+12,1/12/2019,Southwark,39877
+12,1/12/2019,Tower Hamlets,71765
+12,1/12/2019,Wandsworth,35607
+12,1/12/2019,Westminster,128773
