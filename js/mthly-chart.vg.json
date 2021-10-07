@@ -6,13 +6,13 @@
   "mark": "area",
   "encoding": {
     "x": {
-      "timeUnit": "month", "field": "month", "type": "temporal",
-      "axis": {"format": "month"}
+      "timeUnit": "month", "field": "date",
+      "axis": {"format": "%m"}
     },
     "y": {
-      "aggregate": "sum", "field": "hire-cnt", "type": "quantitative"},
+      "aggregate": "sum", "field": "hire-cnt"},
       "color":{
-        "field": "Borough", "type": "nominal",
+        "field": "Borough",
         "scale": {"scheme": "paired"}
       }
     }
