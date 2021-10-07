@@ -16,23 +16,23 @@
           "data": {
             "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/data/boroughs.csv"},
           "key": "Borough",
-          "fields": ["count"]
+          "fields": ["per-capita"]
         }
-      },
-      {"calculate": "datum.count + 1", "as": "Hire Count"}
+      }
     ],
     "mark": {"type": "geoshape"},
     "encoding": {
       "color":{
-        "field": "Hire Count",
+        "field": "per-capita",
         "type": "quantitative",
-        "scale":{"type": "linear"}
+        "scale":{"type": "sqrt"}
       },
       "tooltip": [
-        {"field": "id", "type": "nominal", "title": "Borough"},
-        {"field": "count", "type": "quantitative"}
+        {"field": "id", "type": "nominal", "title": "Borough Name"},
+        {"field": "per-capita", "type": "quantitative", "title": "Annual Bicyle Hire per Capita"}
       ]
     }
+
   }
 ]
 }
