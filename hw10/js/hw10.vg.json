@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/data/mth-hires.csv"},
+    "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/hw10/data/mth-hires.csv"},
   "vconcat": [
     {
       "width": 600,
@@ -36,7 +36,7 @@
   },{
       "width": 600, 
   "height": 200,
-  "data": {"url": "https://raw.githubusercontent.com/c-man01/fit3179/master/data/mth-weather.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/c-man01/fit3179/master/hw10/data/mth-weather.csv"},
   "encoding": {
     "x": {
       "timeUnit": "month", 
@@ -124,11 +124,7 @@
     },
     {
       "data": { 
-        "values": [
-          {
-            "date": "2019-07-01"
-          }
-        ]
+        "values": [{"date": "2019-07-01"}]
       },
       "mark": {
         "type": "text",
