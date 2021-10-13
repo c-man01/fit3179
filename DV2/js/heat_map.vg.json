@@ -1,9 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {
-      "url": "https://media.githubusercontent.com/media/c-man01/fit3179/master/DV2/data/hire-times.csv"
+      "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/DV2/data/hire-times-hourly.csv"
   },
-  "title": "When Do Londoners Hire Bicycles?",
+  "title": "When Do Londoners Cycle?",
+  "width": 1000,
+  "height": 500,
   "config": {
       "view": {
           "strokeWidth": 0,
@@ -18,7 +20,7 @@
       "x": {
           "field": "Start Date",
           "timeUnit": "hours",
-          "type": "ordinal",
+          "type": "temporal",
           "title": "Time",
           "axis": {
               "labelAngle": 0,
@@ -37,8 +39,7 @@
       "color": {
           "field": "dummy",
           "aggregate": "sum",
-          "type": "quantitative",
+          "type": "quantitative"
           }
       }
   }
-}
