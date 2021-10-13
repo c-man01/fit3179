@@ -6,21 +6,24 @@
   "title": "When Do Londoners Cycle?",
   "width": 1000,
   "height": 500,
-  "config": {
-      "view": {
-          "strokeWidth": 0,
-          "step": 13
-      },
-      "axis": {
-          "domain": false
-      }
-  },
   "mark": "rect",
+  "transform": [{
+    "window": [{
+      "op": "sum",
+      "field": "dummy",
+      "as": "TotalDummy"
+    }],
+    "frame": [null, null]
+  },
+  {
+    "calculate": "datum.dummy/datum.TotalDummy * 100",
+    "as": "PercentOfTotal"
+  }],
   "encoding": {
       "x": {
           "field": "Start Date",
           "timeUnit": "hours",
-          "type": "temporal",
+          "type": "ordinal",
           "title": "Time",
           "axis": {
               "labelAngle": 0,
@@ -37,7 +40,7 @@
           }
       },
       "color": {
-          "field": "dummy",
+          "field": "PercentOfTotal",
           "aggregate": "sum",
           "type": "quantitative"
           }
