@@ -1,0 +1,145 @@
+﻿mth_idx,date,Borough,hire-cnt
+1,2019-01-01,Camden,42733
+1,2019-01-01,City of London,47345
+1,2019-01-01,Hackney,29061
+1,2019-01-01,Hammersmith and Fulham,38138
+1,2019-01-01,Islington,49946
+1,2019-01-01,Kensington and Chelsea,77731
+1,2019-01-01,Lambeth,53357
+1,2019-01-01,Newham,1983
+1,2019-01-01,Southwark,46794
+1,2019-01-01,Tower Hamlets,84179
+1,2019-01-01,Wandsworth,43479
+1,2019-01-01,Westminster,152812
+2,2019-02-01,Camden,42252
+2,2019-02-01,City of London,47703
+2,2019-02-01,Hackney,29041
+2,2019-02-01,Hammersmith and Fulham,38875
+2,2019-02-01,Islington,50528
+2,2019-02-01,Kensington and Chelsea,78938
+2,2019-02-01,Lambeth,52286
+2,2019-02-01,Newham,2351
+2,2019-02-01,Southwark,46778
+2,2019-02-01,Tower Hamlets,87694
+2,2019-02-01,Wandsworth,43577
+2,2019-02-01,Westminster,157227
+3,2019-03-01,Camden,48417
+3,2019-03-01,City of London,53396
+3,2019-03-01,Hackney,32812
+3,2019-03-01,Hammersmith and Fulham,45392
+3,2019-03-01,Islington,56055
+3,2019-03-01,Kensington and Chelsea,87529
+3,2019-03-01,Lambeth,60698
+3,2019-03-01,Newham,2482
+3,2019-03-01,Southwark,53144
+3,2019-03-01,Tower Hamlets,96893
+3,2019-03-01,Wandsworth,50050
+3,2019-03-01,Westminster,179106
+4,2019-04-01,Camden,52795
+4,2019-04-01,City of London,57175
+4,2019-04-01,Hackney,36269
+4,2019-04-01,Hammersmith and Fulham,49591
+4,2019-04-01,Islington,60448
+4,2019-04-01,Kensington and Chelsea,101870
+4,2019-04-01,Lambeth,64778
+4,2019-04-01,Newham,3385
+4,2019-04-01,Southwark,56124
+4,2019-04-01,Tower Hamlets,110688
+4,2019-04-01,Wandsworth,55941
+4,2019-04-01,Westminster,204104
+5,2019-05-01,Camden,59888
+5,2019-05-01,City of London,63419
+5,2019-05-01,Hackney,41541
+5,2019-05-01,Hammersmith and Fulham,56515
+5,2019-05-01,Islington,68623
+5,2019-05-01,Kensington and Chelsea,113582
+5,2019-05-01,Lambeth,75275
+5,2019-05-01,Newham,3556
+5,2019-05-01,Southwark,64678
+5,2019-05-01,Tower Hamlets,126125
+5,2019-05-01,Wandsworth,63343
+5,2019-05-01,Westminster,226371
+6,2019-06-01,Camden,60109
+6,2019-06-01,City of London,62044
+6,2019-06-01,Hackney,40840
+6,2019-06-01,Hammersmith and Fulham,58026
+6,2019-06-01,Islington,66836
+6,2019-06-01,Kensington and Chelsea,111175
+6,2019-06-01,Lambeth,75027
+6,2019-06-01,Newham,4317
+6,2019-06-01,Southwark,64693
+6,2019-06-01,Tower Hamlets,125415
+6,2019-06-01,Wandsworth,63715
+6,2019-06-01,Westminster,226211
+7,2019-07-01,Camden,69029
+7,2019-07-01,City of London,72852
+7,2019-07-01,Hackney,46718
+7,2019-07-01,Hammersmith and Fulham,65882
+7,2019-07-01,Islington,76329
+7,2019-07-01,Kensington and Chelsea,130933
+7,2019-07-01,Lambeth,85392
+7,2019-07-01,Newham,4530
+7,2019-07-01,Southwark,77350
+7,2019-07-01,Tower Hamlets,145420
+7,2019-07-01,Wandsworth,72914
+7,2019-07-01,Westminster,250454
+8,2019-08-01,Camden,61196
+8,2019-08-01,City of London,65515
+8,2019-08-01,Hackney,40930
+8,2019-08-01,Hammersmith and Fulham,60675
+8,2019-08-01,Islington,71816
+8,2019-08-01,Kensington and Chelsea,119015
+8,2019-08-01,Lambeth,77072
+8,2019-08-01,Newham,4633
+8,2019-08-01,Southwark,68359
+8,2019-08-01,Tower Hamlets,130406
+8,2019-08-01,Wandsworth,66569
+8,2019-08-01,Westminster,231674
+9,2019-09-01,Camden,58780
+9,2019-09-01,City of London,62179
+9,2019-09-01,Hackney,36429
+9,2019-09-01,Hammersmith and Fulham,57071
+9,2019-09-01,Islington,64767
+9,2019-09-01,Kensington and Chelsea,107629
+9,2019-09-01,Lambeth,73268
+9,2019-09-01,Newham,3113
+9,2019-09-01,Southwark,64131
+9,2019-09-01,Tower Hamlets,118707
+9,2019-09-01,Wandsworth,57500
+9,2019-09-01,Westminster,212082
+10,2019-10-01,Camden,52386
+10,2019-10-01,City of London,54303
+10,2019-10-01,Hackney,31827
+10,2019-10-01,Hammersmith and Fulham,50202
+10,2019-10-01,Islington,59781
+10,2019-10-01,Kensington and Chelsea,93556
+10,2019-10-01,Lambeth,67655
+10,2019-10-01,Newham,2392
+10,2019-10-01,Southwark,56767
+10,2019-10-01,Tower Hamlets,105634
+10,2019-10-01,Wandsworth,49676
+10,2019-10-01,Westminster,184264
+11,2019-11-01,Camden,45539
+11,2019-11-01,City of London,47528
+11,2019-11-01,Hackney,27332
+11,2019-11-01,Hammersmith and Fulham,43307
+11,2019-11-01,Islington,52186
+11,2019-11-01,Kensington and Chelsea,79994
+11,2019-11-01,Lambeth,57538
+11,2019-11-01,Newham,1829
+11,2019-11-01,Southwark,49909
+11,2019-11-01,Tower Hamlets,89132
+11,2019-11-01,Wandsworth,43160
+11,2019-11-01,Westminster,156972
+12,2019-12-01,Camden,35785
+12,2019-12-01,City of London,37552
+12,2019-12-01,Hackney,22845
+12,2019-12-01,Hammersmith and Fulham,33843
+12,2019-12-01,Islington,40412
+12,2019-12-01,Kensington and Chelsea,65650
+12,2019-12-01,Lambeth,44633
+12,2019-12-01,Newham,1587
+12,2019-12-01,Southwark,39877
+12,2019-12-01,Tower Hamlets,71765
+12,2019-12-01,Wandsworth,35607
+12,2019-12-01,Westminster,128773
