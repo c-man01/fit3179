@@ -1,7 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Bike Hire in London",
-  "projection": {"type": "equalEarth"},
+  "height": 500,
+  "width": 500,
+  "projection": {"type": "conicEqualArea"},
   "layer": [{
     "data": {
       "url": "https://raw.githubusercontent.com/vega/vega-datasets/next/data/londonBoroughs.json",
@@ -12,7 +14,7 @@
         "lookup": "id",
         "from": {
           "data": {
-            "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/data/boroughs.csv"},
+            "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/DV2/data/boroughs.csv"},
           "key": "Borough",
           "fields": ["per-capita"]
         }
@@ -23,14 +25,15 @@
       "color":{
         "field": "per-capita",
         "type": "quantitative",
-        "scale":{"type": "sqrt"}
+        "scale":{"type": "sqrt", "scheme": "lighttealblue"},
+        "title": "Daily Hires per Capita"
       },
+      
       "tooltip": [
         {"field": "id", "type": "nominal", "title": "Borough Name"},
         {"field": "per-capita", "type": "quantitative", "title": "Annual Bicyle Hire per Capita"}
       ]
     }
-
   }
 ]
 }

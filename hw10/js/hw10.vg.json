@@ -7,32 +7,77 @@
       "width": 600,
       "height": 400,
       "title": "London Bicyle Hire 2019",
-      "mark": {"type": "area", "tooltip":true},
-      "params": [{
-        "name": "Bor-select",
-        "select": {"type": "point", "fields": ["Borough"]
-    },
-        "bind": "legend"
-      }],
-      "encoding": {
-        "x": {
-          "timeUnit": "month",
-          "field": "date",
-          "type": "ordinal",
-          "title": "Month",
-          "axis": {"format": "%b"}
+      "layer": [
+        {
+          "mark": {"type":"rect", "fill": "yellow", "opacity":0.5},
+          "data": {
+            "values": {
+              "start": "2019-06-01",
+              "end": "2019-09-01",
+              "event": "Summer",
+              "type": "ordinal"}
+            },
+          "encoding":{
+            "x": {
+              "field": "start",
+              "timeUnit": "month",
+              "type": "ordinal",
+              "axis": {"format": "%b"}
+            },
+            "x2": {
+              "field": "end",
+              "timeUnit": "month",
+              "type": "ordinal",
+              "axis": {"format": "%b"}
+            }
+          }
         },
-        "y": {
-          "field": "hire-cnt",
-          "type": "quantitative",
-          "title": "Monthly Hire Totals"
+        {
+          "mark": {"type":"rect", "fill": "yellow", "opacity":0.5},
+          "data": {
+            "values": {
+              "start": "2019-06-01",
+              "end": "2019-08-01",
+              "event": "Summer",
+              "type": "ordinal"}
+            },
+          "encoding":{
+            "x2": {
+              "field": "start",
+              "timeUnit": "month",
+              "type": "ordinal",
+              "axis": {"format": "%b"}
+            },
+            "x": {
+              "field": "end",
+              "timeUnit": "month",
+              "type": "ordinal",
+              "axis": {"format": "%b"}
+            }
+          }
         },
-        "color": {"field": "Borough", "scale": {"scheme": "category20c"}},
-        "opacity": {
-          "condition": {"param": "Bor-select", "value": 1},
-          "value": 0.2
-        }  
-    }
+        {
+          "mark": {"type": "area", "tooltip":true},
+          "params": [{"name": "Bor-select", "select": {"type": "point", "fields": ["Borough"]}, "bind": "legend"}],
+          "encoding": {
+            "x": {
+              "timeUnit": "month",
+              "field": "date",
+              "type": "ordinal",
+              "title": "Month",
+              "axis": {"format": "%b"}
+            },
+            "y": {
+              "field": "hire-cnt",
+              "type": "quantitative",
+              "title": "Monthly Hire Totals",
+              "scale": {"domain":[0,1170000]}
+            },
+            "color": {"field": "Borough", "scale": {"scheme": "category20c"}},
+            "opacity": {"condition": {"param": "Bor-select", "value": 1}, "value": 0.2}
+          }
+        }
+      ]
   },{
       "width": 600, 
   "height": 200,
@@ -47,7 +92,7 @@
     },
   "layer": [
     {
-      "mark": {"type":"rect", "fill": "yellow", "opacity":0.6},
+      "mark": {"type":"rect", "fill": "yellow", "opacity":0.5},
       "data": {
         "values": {
           "start": "2019-06-01",
@@ -71,7 +116,7 @@
       }
     },
     {
-      "mark": {"type":"rect", "fill": "yellow", "opacity":0.6},
+      "mark": {"type":"rect", "fill": "yellow", "opacity":0.5},
       "data": {
         "values": {
           "start": "2019-06-01",
