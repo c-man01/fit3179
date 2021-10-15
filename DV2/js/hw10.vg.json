@@ -4,8 +4,8 @@
     "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/hw10/data/mth-hires.csv"},
   "vconcat": [
     {
-      "width": 600,
-      "height": 400,
+      "width": 300,
+      "height": 200,
       "title": "London Bicyle Hire 2019",
       "mark": {"type": "area", "tooltip":true},
       "params": [{
@@ -34,8 +34,8 @@
         }  
     }
   },{
-      "width": 600, 
-  "height": 200,
+      "width": 300, 
+  "height": 100,
   "data": {"url": "https://raw.githubusercontent.com/c-man01/fit3179/master/hw10/data/mth-weather.csv"},
   "encoding": {
     "x": {
@@ -95,8 +95,14 @@
       }
     },
     {
-      "mark": {"fill": "#1F78B4", "stroke": "white", "opacity": 1, "type": "bar", "tooltip": true},
+      "mark": {"stroke": "white", "opacity": 1, "type": "bar", "tooltip": true},
       "encoding": {
+        "color": {
+          "field": "rain_ave_mm",
+          "type": "quantitative",
+          "scale": {"scheme": "blues",
+          "domain": [0,70]}
+      },
         "y": {
           "field": "rain_ave_mm",
           "type": "quantitative",

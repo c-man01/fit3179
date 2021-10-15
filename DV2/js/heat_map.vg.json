@@ -4,9 +4,7 @@
       "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/DV2/data/hire-times-hourly.csv"
   },
   "title": "When Do Londoners Cycle?",
-  "width": 1000,
-  "height": 500,
-  "mark": "rect",
+  "mark": {"type": "rect", "tooltip":true},
   "transform": [{
     "window": [{
       "op": "sum",
@@ -24,7 +22,7 @@
           "field": "Start Date",
           "timeUnit": "hours",
           "type": "ordinal",
-          "title": "Time",
+          "title": "Hour of Day (24hr time)",
           "axis": {
               "labelAngle": 0,
               "format": "%H"
@@ -42,7 +40,8 @@
       "color": {
           "field": "PercentOfTotal",
           "aggregate": "sum",
-          "type": "quantitative"
+          "type": "quantitative",
+          "title": "% of Weekly Hires"
           }
       }
   }

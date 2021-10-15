@@ -1,7 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 900,
-  "height": 560,
   "title": "Bike Hire in London",
   "projection": {"type": "equalEarth"},
   "layer": [{
