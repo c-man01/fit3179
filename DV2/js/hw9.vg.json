@@ -2,13 +2,12 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Bike Hire in London",
   "height": 300,
-  "width": 350,
-  "projection": {
-    "type": "conicEqualArea"},
+  "width": 340,
+  "projection": {"type": "conicEqualArea"},
   "layer": [{
     "data": {
-      "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/DV2/data/topo_lad.json",
-      "format": {"type": "topojson", "feature": "id"}
+      "url": "https://raw.githubusercontent.com/vega/vega-datasets/next/data/londonBoroughs.json",
+      "format": {"type": "topojson", "feature": "boroughs"}
     },
     "transform": [
       {
@@ -16,7 +15,7 @@
         "from": {
           "data": {
             "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/DV2/data/boroughs.csv"},
-          "key": "id",
+          "key": "Borough",
           "fields": ["per-capita"]
         }
       }

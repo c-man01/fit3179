@@ -174,8 +174,7 @@
       "mark": {
         "type": "text",
         "align": "center",
-        "dy": -80
-      },
+        "dy": -40      },
       "encoding": {
         "text": {"value": "Summer"},
         "color": {"value": "black"}

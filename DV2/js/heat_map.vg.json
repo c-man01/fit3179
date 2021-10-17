@@ -3,7 +3,7 @@
   "data": {
       "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/DV2/data/hire-times-hourly.csv"
   },
-  "width":850,
+  "width":840,
   "height":200,
   "title": "When Do Londoners Cycle?",
   "mark": {"type": "rect", "tooltip":true},
