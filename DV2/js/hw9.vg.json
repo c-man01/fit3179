@@ -7,8 +7,8 @@
     "type": "conicEqualArea"},
   "layer": [{
     "data": {
-      "url": "https://raw.githubusercontent.com/vega/vega-datasets/next/data/londonBoroughs.json",
-      "format": {"type": "topojson", "feature": "boroughs"}
+      "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/DV2/data/topo_lad.json",
+      "format": {"type": "topojson", "feature": "id"}
     },
     "transform": [
       {
@@ -16,7 +16,7 @@
         "from": {
           "data": {
             "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/DV2/data/boroughs.csv"},
-          "key": "Borough",
+          "key": "id",
           "fields": ["per-capita"]
         }
       }
