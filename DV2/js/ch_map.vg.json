@@ -16,14 +16,14 @@
           "data": {
             "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/DV2/data/boroughs.csv"},
           "key": "Borough",
-          "fields": ["per-capita"]
+          "fields": ["count"]
         }
       }
     ],
     "mark": {"type": "geoshape"},
     "encoding": {
       "color":{
-        "field": "per-capita",
+        "field": "count",
         "type": "quantitative",
         "scale":{"type": "sqrt", "scheme": "blues"},
         "title": "Hires per Capita"
@@ -31,7 +31,7 @@
       
       "tooltip": [
         {"field": "id", "type": "nominal", "title": "Borough Name"},
-        {"field": "per-capita", "type": "quantitative", "format": ".3f", "title": "Daily Bicyle Hires per Capita"}
+        {"field": "count", "type": "quantitative", "title": "Total Hires 2019"}
       ]
     }
   }
