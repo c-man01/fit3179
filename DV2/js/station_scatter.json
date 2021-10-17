@@ -5,45 +5,78 @@
   "height":250,
   "width":300,
   "title": "Individual Hire Station Throughput",
-  "params": [{
-    "name": "grid",
-    "select": "interval",
-    "bind": "scales"
-  }],
-  "mark": "point",
-  "transform": [{
-    "calculate": "'https://www.google.com/maps/place/' + datum.Start", "as": "url"
-  }],
-  "encoding": {
-    "x": {"field": "departures", "type": "quantitative", "title": "Station Departures"},
-    "y": {"field": "arrivals", "type": "quantitative", "title": "Station Arrivals"},
-    "color": {
-      "field": "net",
-       "type": "quantitative",
-        "title": "Hire Surplus",
-        "scale": {"type":"sqrt", "scheme": "redblue"}
-        },
-    "tooltip": [{
-      "field": "Start", 
-      "type": "nominal", 
-      "title": "Station Name"
-      },
-      {
-        "field": "departures",
-        "type": "quantitative",
-        "title": "Bike Departures"
-      },
-      {
-        "field": "arrivals",
-        "type": "quantitative",
-        "title": "Bike Arrivals"
-      },
-      {
-        "field": "net",
-        "type": "quantitative",
-        "title": "Surplus/Deficit"
-      }
-      ],
-    "href": {"field": "url", "type": "nominal"}
+  "layer":[
+    {
+      "params": [{
+        "name": "grid",
+        "select": "interval",
+        "bind": "scales"
+      }],
+      "mark": "point",
+      "transform": [{
+        "calculate": "'https://www.google.com/maps/place/' + datum.Start", "as": "url"
+      }],
+      "encoding": {
+        "x": {"field": "departures", "type": "quantitative", "title": "Station Departures"},
+        "y": {"field": "arrivals", "type": "quantitative", "title": "Station Arrivals"},
+        "color": {
+          "field": "net",
+           "type": "quantitative",
+            "title": "Hire Surplus",
+            "scale": {"type":"sqrt", "scheme": "redblue"}
+            },
+        "tooltip": [{
+          "field": "Start", 
+          "type": "nominal", 
+          "title": "Station Name"
+          },
+          {
+            "field": "departures",
+            "type": "quantitative",
+            "title": "Bike Departures"
+          },
+          {
+            "field": "arrivals",
+            "type": "quantitative",
+            "title": "Bike Arrivals"
+          },
+          {
+            "field": "net",
+            "type": "quantitative",
+            "title": "Surplus/Deficit"
+          }
+          ],
+        "href": {"field": "url", "type": "nominal"}
+     
+    }
+  },
+  {
+    "data": {
+      "values": [{"departures": 45000}, {"arrivals": 70000}]
+    },
+    "mark": {"type": "text", "align": "center", "dy": -50, "dx": -37},
+    "encoding": {"text": {"value": "Hop Exchange"}, "color": {"value":"black"}}
+  },
+  {
+    "data": {
+      "values": [{"departures": 45000}, {"arrivals": 70000}]
+    },
+    "mark": {"type": "text", "align": "center", "dy": 56.25, "dx": 27},
+    "encoding": {"text": {"value": "Waterloo Station 2"}, "color": {"value":"black"}}
+  },
+  {
+    "data": {
+      "values": [{"departures": 45000}, {"arrivals": 70000}]
+    },
+    "mark": {"type": "text", "align": "center", "dy": -106, "dx": 95},
+    "encoding": {"text": {"value": "Belgrove St"}, "color": {"value":"black"}}
+  },
+  {
+    "data": {
+      "values": [{"departures": 45000}, {"arrivals": 70000}]
+    },
+    "mark": {"type": "text", "align": "center", "dy": -35, "dx": 90},
+    "encoding": {"text": {"value": "Waterloo Station 1"}, "color": {"value":"black"}}
   }
+  ]
 }
