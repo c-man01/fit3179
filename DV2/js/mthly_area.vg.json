@@ -1,0 +1,30 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/c-man01/fit3179/master/hw10/data/mth-hires.csv"},
+    "width": 300,
+    "height": 200,
+    "title": "Monthly Bicycle Hire Totals",
+    "mark": {"type": "area", "tooltip":true},
+    "params": [{
+      "name": "Bor-select", 
+      "select": {"type": "point", "fields": ["Borough"]}, "bind": "legend"
+      }],
+    "encoding": {
+      "x": {
+        "timeUnit": "month",
+        "field": "date",
+        "type": "ordinal",
+        "title": "Month",
+        "axis": {"format": "%b"}
+      },
+      "y": {
+        "field": "hire-cnt",
+        "type": "quantitative",
+        "title": "Hire Totals",
+        "scale": {"domain":[0,1170000]}
+      },
+      "color": {"field": "Borough", "scale": {"scheme": "paired"}},
+      "opacity": {"condition": {"param": "Bor-select", "value": 1}, "value": 0.2}
+    }
+}

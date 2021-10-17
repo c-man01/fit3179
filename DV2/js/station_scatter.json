@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A scatterplot showing horsepower and miles per gallons that opens a Google search for the car that you click on.",
+  "data": {"url": "https://raw.githubusercontent.com/c-man01/fit3179/master/DV2/data/hire-deficit.csv"},
+  "height":280,
+  "width":300,
+  "title": "Individual Hire Station Throughput",
+  "params": [{
+    "name": "grid",
+    "select": "interval",
+    "bind": "scales"
+  }],
+  "mark": "point",
+  "transform": [{
+    "calculate": "'https://www.google.com/maps/place/' + datum.Start", "as": "url"
+  }],
+  "encoding": {
+    "x": {"field": "departures", "type": "quantitative", "title": "Station Departures"},
+    "y": {"field": "arrivals", "type": "quantitative", "title": "Station Arrivals"},
+    "color": {
+      "field": "net",
+       "type": "quantitative",
+        "title": "Hire Surplus",
+        "scale": {"type":"sqrt", "scheme": "redblue"}
+        },
+    "tooltip": [{
+      "field": "Start", 
+      "type": "nominal", 
+      "title": "Station Name"
+      },
+      {
+        "field": "departures",
+        "type": "quantitative",
+        "title": "Bike Departures"
+      },
+      {
+        "field": "arrivals",
+        "type": "quantitative",
+        "title": "Bike Arrivals"
+      },
+      {
+        "field": "net",
+        "type": "quantitative",
+        "title": "Surplus/Deficit"
+      }
+      ],
+    "href": {"field": "url", "type": "nominal"}
+  }
+}

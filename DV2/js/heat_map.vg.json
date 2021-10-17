@@ -44,7 +44,26 @@
           "aggregate": "sum",
           "type": "quantitative",
           "title": "% of Weekly Hires",
-          "scale":{"scheme": "lighttealblue"}
-          }
+          "scale":{"scheme": "blues"}
+          },
+      "tooltip": [{
+        "field": "Start Date",
+        "timeUnit": "day", 
+        "type": "ordinal", 
+        "title": "Day of Week"
+        },
+        {
+        "field": "Start Date",
+        "timeUnit": "hours",
+        "type": "ordinal", 
+        "title": "Hour (24hr)"
+        },
+        {
+        "field": "PercentOfTotal",
+        "aggregate": "sum", 
+        "type": "quantitative", 
+        "format": ".2f",
+        "title": "% of all Weekly Hires"
+        }]
       }
-  }
+}
